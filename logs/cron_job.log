@@ -1,0 +1,28 @@
+[2025-02-05 21:50:10] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-05 21:50:10] [INFO    ] discord.client: logging in using static token
+[2025-02-05 21:50:11] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 2c491094f4b762f02522d3b584ff6ac9).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-05
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Devorador do Nubank with scheduled removal date: 2026-02-05
+[INFO] No action for Devorador do Nubank today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Finished processing all users.
