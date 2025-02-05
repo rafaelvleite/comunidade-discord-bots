@@ -20,7 +20,6 @@ removal_schedule = {
     1317980616826032202: "2026-02-05",  # Osix
     848331633429577758: "2026-02-05",  # Zimmer
     759121743599763497: "2026-02-05",  # mdkmaycon
-    #520362697620193293: "2025-02-05",  # rafaelvleite
 }
 
 # Bot intents (make sure you enable them in the Discord developer portal)
@@ -34,8 +33,8 @@ async def on_ready():
     print(f"[LOG] Logged in as {bot.user}")
 
     # Guild (server) ID and Role ID to be removed
-    guild_id = 1335436694844997734  # Comunidade Xadrez Brasil
-    role_id = 1336061135446605925  # Membro Comunidade Xadrez Brasil
+    guild_id = 1335436694844997734  # Replace with your server's ID
+    role_id = 1336061135446605925  # Replace with the role you want to remove
 
     guild = bot.get_guild(guild_id)
     if not guild:
@@ -59,23 +58,26 @@ async def on_ready():
 
     # Iterate through the removal schedule
     for user_id, removal_date in removal_schedule.items():
-        print(f"[LOG] Checking user {user_id} with scheduled removal date: {removal_date}")
+        # Try to get the member
+        member = guild.get_member(user_id)
+        user_display_name = member.display_name if member else f"Unknown User ({user_id})"
+
+        print(f"[LOG] Checking user: {user_display_name} with scheduled removal date: {removal_date}")
 
         if today >= removal_date:
-            member = guild.get_member(user_id)
             if not member:
-                print(f"[WARNING] User with ID {user_id} not found in the guild.")
+                print(f"[WARNING] User {user_display_name} not found in the guild.")
                 continue
 
-            print(f"[LOG] Found member: {member.name} (ID: {user_id})")
+            print(f"[LOG] Found member: {user_display_name}")
 
             if role in member.roles:
                 await member.remove_roles(role)
-                print(f"[SUCCESS] Removed role '{role.name}' from {member.name} (ID: {user_id}).")
+                print(f"[SUCCESS] Removed role '{role.name}' from {user_display_name}.")
             else:
-                print(f"[INFO] {member.name} (ID: {user_id}) does not have the role '{role.name}'. No action taken.")
+                print(f"[INFO] {user_display_name} does not have the role '{role.name}'. No action taken.")
         else:
-            print(f"[INFO] No action for user {user_id} today. Removal date not reached.")
+            print(f"[INFO] No action for {user_display_name} today. Removal date not reached.")
 
     print("[LOG] Finished processing all users.")
     await bot.close()
