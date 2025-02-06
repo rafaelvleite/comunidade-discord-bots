@@ -47,7 +47,8 @@ async def on_ready():
         f"✅ **Solução do Puzzle do Dia!** ✅\n\n"
         f"**Melhor sequência de jogadas:** {formatted_moves}\n\n"
         f"🎉 Parabéns aos que acertaram! Continue praticando para melhorar no tabuleiro!\n"
-        f"📱 **Quer mais desafios? Baixe o app XB PRO e treine onde estiver!**\n"
+        f"📱 **Quer mais desafios? Baixe o app XB PRO e treine onde estiver!**\n\n"
+        f" "
     )
 
     # Post the solution
