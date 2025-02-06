@@ -156,7 +156,7 @@ async def on_ready():
         f"🔍 **Encontre a melhor sequência de jogadas!**\n\n"
         f"**Tema:** {puzzle['themes'].replace(' ', ', ')}\n"
         f"**Dificuldade:** {puzzle['rating']} pontos\n"
-        f"**{turn_message} — Encontre a sequência de {num_moves} lances!**\n\n"
+        f"**{turn_message} — Encontre a sequência de {num_moves} {'meio-lance' if num_moves == 1 else 'meio-lances'}!**\n\n"
         f"💡 Poste suas respostas abaixo e volte ao final da hora para ver a solução! 🎯\n\n"
         f"🔐 **Envie sua resposta no formato de anti-spoiler para evitar revelar a outros membros:**\n"
         f"**Exemplo:** `||e2e4 e7e5||`\n"
