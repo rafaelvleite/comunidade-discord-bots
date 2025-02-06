@@ -3,6 +3,10 @@ import json
 import os
 from dotenv import load_dotenv
 
+# Determinar o caminho base onde o script está localizado
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PUZZLE_JSON = os.path.join(BASE_DIR, "current_puzzle.json")
+
 # Load environment variables
 load_dotenv(override=True)
 TOKEN = os.getenv("DISCORD_TOKEN")
@@ -24,7 +28,7 @@ async def on_ready():
 
     # Read the puzzle from the JSON file
     try:
-        with open("./current_puzzle.json", "r") as json_file:
+        with open(PUZZLE_JSON, "r") as json_file:
             puzzle = json.load(json_file)
     except FileNotFoundError:
         print("[ERROR] No puzzle file found. Did you run the morning puzzle job?")
@@ -37,7 +41,6 @@ async def on_ready():
 
     # Format solution details
     fen_position = puzzle["fen"]
-    game_url = puzzle["game_url"]
 
     # Create the solution message
     solution_message = (

@@ -1,5 +1,4 @@
 import discord
-import random
 import pandas as pd
 import zstandard as zstd
 import os
@@ -8,6 +7,12 @@ import chess.svg
 import cairosvg
 from dotenv import load_dotenv
 import json
+
+# Determinar o caminho base onde o script está localizado
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+PUZZLE_FILE = os.path.join(BASE_DIR, "lichess_db_puzzle.csv.zst")
+PUZZLE_IMAGE = os.path.join(BASE_DIR, "puzzle.png")
+PUZZLE_JSON = os.path.join(BASE_DIR, "current_puzzle.json")
 
 # Load environment variables
 load_dotenv(override=True)
@@ -46,7 +51,7 @@ def get_puzzle_position(fen, first_move):
     
     return board
 
-def render_chessboard(board, output_file="./puzzle.png"):
+def render_chessboard(board, output_file=PUZZLE_IMAGE):
     """Render the chessboard and save it as a PNG image."""
     # Invert the board if it's Black's turn to move
     flip_board = (board.turn == chess.BLACK)
@@ -75,11 +80,11 @@ async def on_ready():
     puzzle_board = get_puzzle_position(puzzle["fen"], first_move)
     
     # Save puzzle details to JSON for the solution
-    with open("./current_puzzle.json", "w") as json_file:
+    with open(PUZZLE_JSON, "w") as json_file:
         json.dump(puzzle, json_file)
 
     # Render and save the puzzle image
-    render_chessboard(puzzle_board, output_file="./puzzle.png")
+    render_chessboard(puzzle_board, output_file=PUZZLE_IMAGE)
 
     # Create the message
     black_turn = (puzzle_board.turn == chess.BLACK)
@@ -100,7 +105,7 @@ async def on_ready():
     )
 
     # Enviar a mensagem com a imagem do puzzle
-    await channel.send(puzzle_message, file=discord.File("./puzzle.png"))
+    await channel.send(puzzle_message, file=discord.File(PUZZLE_IMAGE))
     print(f"[LOG] Puzzle posted successfully: {puzzle['fen']}")
 
     await bot.close()
