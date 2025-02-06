@@ -19,7 +19,7 @@ bot = discord.Client(intents=intents)
 
 def get_random_puzzle():
     """Read the compressed CSV file and return a random puzzle."""
-    with open("lichess_db_puzzle.csv.zst", "rb") as file:
+    with open("./lichess_db_puzzle.csv.zst", "rb") as file:
         dctx = zstd.ZstdDecompressor()
         with dctx.stream_reader(file) as reader:
             df = pd.read_csv(reader)
@@ -75,7 +75,7 @@ async def on_ready():
     puzzle_board = get_puzzle_position(puzzle["fen"], first_move)
     
     # Save puzzle details to JSON for the solution
-    with open("current_puzzle.json", "w") as json_file:
+    with open("./current_puzzle.json", "w") as json_file:
         json.dump(puzzle, json_file)
 
     # Render and save the puzzle image
@@ -100,7 +100,7 @@ async def on_ready():
     )
 
     # Enviar a mensagem com a imagem do puzzle
-    await channel.send(puzzle_message, file=discord.File("puzzle.png"))
+    await channel.send(puzzle_message, file=discord.File("./puzzle.png"))
     print(f"[LOG] Puzzle posted successfully: {puzzle['fen']}")
 
     await bot.close()

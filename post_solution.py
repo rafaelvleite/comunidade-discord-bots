@@ -24,7 +24,7 @@ async def on_ready():
 
     # Read the puzzle from the JSON file
     try:
-        with open("current_puzzle.json", "r") as json_file:
+        with open("./current_puzzle.json", "r") as json_file:
             puzzle = json.load(json_file)
     except FileNotFoundError:
         print("[ERROR] No puzzle file found. Did you run the morning puzzle job?")
