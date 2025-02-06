@@ -23,6 +23,29 @@ CHANNEL_ID = 1337058925962334208
 intents = discord.Intents.default()
 bot = discord.Client(intents=intents)
 
+def post_solution(channel):
+    """Post the solution of the previous puzzle."""
+    try:
+        with open(PUZZLE_JSON, "r") as json_file:
+            puzzle = json.load(json_file)
+    except FileNotFoundError:
+        print("[ERROR] No puzzle file found. Did you run the previous job?")
+        return
+
+    # Parse the solution moves and exclude the first move (machine's move)
+    moves = puzzle["moves"].split(" ")[1:]  # Exclude the first move
+    formatted_moves = ", ".join(moves)
+
+    # Create the solution message
+    solution_message = (
+        f"✅ **Solução do Puzzle do Dia!** ✅\n\n"
+        f"**Melhor sequência de jogadas:** {formatted_moves}\n\n"
+        f"🎉 Parabéns aos que acertaram! Continue praticando para melhorar no tabuleiro!\n"
+        f"📱 **Quer mais desafios? Baixe o app XB PRO e treine onde estiver!**\n\n"
+    )
+
+    return solution_message
+
 def get_random_puzzle():
     """Read the compressed CSV file and return a random puzzle that hasn't been posted recently."""
     with open(PUZZLE_FILE, "rb") as file:
@@ -87,22 +110,28 @@ def render_chessboard(board, output_file=PUZZLE_IMAGE):
 async def on_ready():
     print(f"[LOG] Logged in as {bot.user}")
 
-    # Get the channel where the puzzle should be posted
+    # Get the channel where the puzzle and solution should be posted
     channel = bot.get_channel(CHANNEL_ID)
     if not channel:
         print(f"[ERROR] Channel with ID {CHANNEL_ID} not found.")
         await bot.close()
         return
 
-    # Get a random puzzle and save it to a JSON file for the solution
+    # STEP 1: Post the solution of the previous puzzle
+    solution_message = post_solution(channel)
+    if solution_message:
+        await channel.send(solution_message)
+        print("[LOG] Solution posted successfully.")
+
+    # STEP 2: Post the new puzzle
     puzzle = get_random_puzzle()
 
     # Parse the moves and apply the first move to get the puzzle position
     moves = puzzle["moves"].split(" ")
     first_move = moves[0]  # First move from the solution
     puzzle_board = get_puzzle_position(puzzle["fen"], first_move)
-    
-    # Save puzzle details to JSON for the solution
+
+    # Save puzzle details to JSON for the next solution post
     with open(PUZZLE_JSON, "w") as json_file:
         json.dump(puzzle, json_file)
 
@@ -124,9 +153,9 @@ async def on_ready():
         f"**Exemplo:** `||e2e4 e7e5||`\n"
     )
 
-    # Enviar a mensagem com a imagem do puzzle
+    # Post the puzzle
     message = await channel.send(puzzle_message, file=discord.File(PUZZLE_IMAGE))
-    print(f"[LOG] Puzzle posted successfully: {puzzle['fen']}")
+    print(f"[LOG] New puzzle posted successfully: {puzzle['fen']}")
 
     await bot.close()
 
