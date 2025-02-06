@@ -38,7 +38,7 @@ def post_solution(channel):
 
     # Create the solution message
     solution_message = (
-        f"✅ **Solução do Puzzle do Dia!** ✅\n\n"
+        f"✅ **Solução do Puzzle da Hora!** ✅\n\n"
         f"**Melhor sequência de jogadas:** {formatted_moves}\n\n"
         f"🎉 Parabéns aos que acertaram! Continue praticando para melhorar no tabuleiro!\n"
         f"📱 **Quer mais desafios? Baixe o app XB PRO e treine onde estiver!**\n\n"
@@ -143,7 +143,7 @@ async def on_ready():
     turn_message = "Pretas jogam" if black_turn else "Brancas jogam"
 
     puzzle_message = (
-        f"♟️ **Puzzle do Dia da Comunidade Xadrez Brasil!** ♟️\n"
+        f"♟️ **Puzzle da Hora da Comunidade Xadrez Brasil!** ♟️\n"
         f"🔍 **Encontre a melhor sequência de jogadas!**\n\n"
         f"**Tema:** {puzzle['themes'].replace(' ', ', ')}\n"
         f"**Dificuldade:** {puzzle['rating']} pontos\n"
