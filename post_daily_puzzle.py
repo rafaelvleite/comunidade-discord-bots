@@ -24,7 +24,7 @@ bot = discord.Client(intents=intents)
 
 def get_random_puzzle():
     """Read the compressed CSV file and return a random puzzle."""
-    with open("./lichess_db_puzzle.csv.zst", "rb") as file:
+    with open(PUZZLE_FILE, "rb") as file:
         dctx = zstd.ZstdDecompressor()
         with dctx.stream_reader(file) as reader:
             df = pd.read_csv(reader)
