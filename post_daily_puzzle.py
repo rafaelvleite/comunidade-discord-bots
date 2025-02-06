@@ -105,8 +105,12 @@ async def on_ready():
     )
 
     # Enviar a mensagem com a imagem do puzzle
-    await channel.send(puzzle_message, file=discord.File(PUZZLE_IMAGE))
+    message = await channel.send(puzzle_message, file=discord.File(PUZZLE_IMAGE))
     print(f"[LOG] Puzzle posted successfully: {puzzle['fen']}")
+
+    # Fixa a mensagem após ser postada
+    await message.pin()
+    print("[LOG] Message pinned successfully.")
 
     await bot.close()
 
