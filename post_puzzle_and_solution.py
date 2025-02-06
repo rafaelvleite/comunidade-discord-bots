@@ -23,23 +23,24 @@ CHANNEL_ID = 1337058925962334208
 intents = discord.Intents.default()
 bot = discord.Client(intents=intents)
 
-def post_solution(channel):
+def post_solution():
     """Post the solution of the previous puzzle."""
     try:
         with open(PUZZLE_JSON, "r") as json_file:
             puzzle = json.load(json_file)
     except FileNotFoundError:
         print("[ERROR] No puzzle file found. Did you run the previous job?")
-        return
+        return None
 
     # Parse the solution moves and exclude the first move (machine's move)
     moves = puzzle["moves"].split(" ")[1:]  # Exclude the first move
     formatted_moves = ", ".join(moves)
+    num_moves = len(moves)
 
     # Create the solution message
     solution_message = (
-        f"✅ **Solução do Puzzle da Hora!** ✅\n\n"
-        f"**Melhor sequência de jogadas:** {formatted_moves}\n\n"
+        f"✅ **Solução do Puzzle do Dia!** ✅\n\n"
+        f"**Melhor sequência de jogadas ({num_moves} lances - incluindo os lances do adversário):** {formatted_moves}\n\n"
         f"🎉 Parabéns aos que acertaram! Continue praticando para melhorar no tabuleiro!\n"
         f"📱 **Quer mais desafios? Baixe o app XB PRO e treine onde estiver!**\n\n"
     )
@@ -118,10 +119,11 @@ async def on_ready():
         return
 
     # STEP 1: Post the solution of the previous puzzle
-    solution_message = post_solution(channel)
+    solution_message = post_solution()
     if solution_message:
-        await channel.send(solution_message)
-        print("[LOG] Solution posted successfully.")
+        solution_msg = await channel.send(solution_message)
+        await solution_msg.pin()  # Pin the solution message
+        print("[LOG] Solution posted and pinned successfully.")
 
     # STEP 2: Post the new puzzle
     puzzle = get_random_puzzle()
@@ -143,7 +145,7 @@ async def on_ready():
     turn_message = "Pretas jogam" if black_turn else "Brancas jogam"
 
     puzzle_message = (
-        f"♟️ **Puzzle da Hora da Comunidade Xadrez Brasil!** ♟️\n"
+        f"♟️ **Puzzle do Dia da Comunidade Xadrez Brasil!** ♟️\n"
         f"🔍 **Encontre a melhor sequência de jogadas!**\n\n"
         f"**Tema:** {puzzle['themes'].replace(' ', ', ')}\n"
         f"**Dificuldade:** {puzzle['rating']} pontos\n"
@@ -154,8 +156,9 @@ async def on_ready():
     )
 
     # Post the puzzle
-    message = await channel.send(puzzle_message, file=discord.File(PUZZLE_IMAGE))
-    print(f"[LOG] New puzzle posted successfully: {puzzle['fen']}")
+    puzzle_msg = await channel.send(puzzle_message, file=discord.File(PUZZLE_IMAGE))
+    await puzzle_msg.pin()  # Pin the puzzle message
+    print(f"[LOG] New puzzle posted and pinned successfully: {puzzle['fen']}")
 
     await bot.close()
 
