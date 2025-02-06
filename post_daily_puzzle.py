@@ -10,7 +10,7 @@ import json
 
 # Determinar o caminho base onde o script está localizado
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-PUZZLE_FILE = os.path.join(BASE_DIR, "lichess_db_puzzle.csv.zst")
+PUZZLE_FILE = os.path.join(BASE_DIR, "filtered_puzzles.csv.zst")
 PUZZLE_IMAGE = os.path.join(BASE_DIR, "puzzle.png")
 PUZZLE_JSON = os.path.join(BASE_DIR, "current_puzzle.json")
 
