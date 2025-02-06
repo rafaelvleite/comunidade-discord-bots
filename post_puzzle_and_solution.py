@@ -37,10 +37,14 @@ def post_solution():
     formatted_moves = ", ".join(moves)
     num_moves = len(moves)
 
+    # Formatar a solução com anti-spoiler
+    anti_spoiler_moves = f"||{formatted_moves}||"
+
     # Create the solution message
     solution_message = (
         f"✅ **Solução do Puzzle do Dia!** ✅\n\n"
-        f"**Melhor sequência de jogadas ({num_moves} lances - incluindo os lances do adversário):** {formatted_moves}\n\n"
+        f"**Melhor sequência de jogadas ({num_moves} lances - incluindo os lances do adversário):**\n"
+        f"{anti_spoiler_moves}\n\n"
         f"🎉 Parabéns aos que acertaram! Continue praticando para melhorar no tabuleiro!\n"
         f"📱 **Quer mais desafios? Baixe o app XB PRO e treine onde estiver!**\n\n"
     )
@@ -137,6 +141,9 @@ async def on_ready():
     with open(PUZZLE_JSON, "w") as json_file:
         json.dump(puzzle, json_file)
 
+    # Determine the number of lances na sequência (desconsiderando o primeiro lance da máquina)
+    num_moves = len(moves) - 1
+
     # Render and save the puzzle image
     render_chessboard(puzzle_board, output_file=PUZZLE_IMAGE)
 
@@ -149,7 +156,7 @@ async def on_ready():
         f"🔍 **Encontre a melhor sequência de jogadas!**\n\n"
         f"**Tema:** {puzzle['themes'].replace(' ', ', ')}\n"
         f"**Dificuldade:** {puzzle['rating']} pontos\n"
-        f"**{turn_message}**\n\n"
+        f"**{turn_message} — Encontre a sequência de {num_moves} lances!**\n\n"
         f"💡 Poste suas respostas abaixo e volte ao final da hora para ver a solução! 🎯\n\n"
         f"🔐 **Envie sua resposta no formato de anti-spoiler para evitar revelar a outros membros:**\n"
         f"**Exemplo:** `||e2e4 e7e5||`\n"
