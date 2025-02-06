@@ -48,12 +48,14 @@ async def on_ready():
         f"**Melhor sequência de jogadas:** {formatted_moves}\n\n"
         f"🎉 Parabéns aos que acertaram! Continue praticando para melhorar no tabuleiro!\n"
         f"📱 **Quer mais desafios? Baixe o app XB PRO e treine onde estiver!**\n\n"
-        f" "
+        f"⠀\n⠀\n"  # Espaçamento adicional usando caracteres invisíveis (U+2800)
     )
 
-    # Post the solution
-    await channel.send(solution_message)
-    print(f"[LOG] Solution posted successfully: {fen_position}")
+    # Post the solution and pin the message
+    message = await channel.send(solution_message)
+    await message.pin()
+
+    print(f"[LOG] Solution posted and pinned successfully: {fen_position}")
 
     await bot.close()
 
