@@ -46,7 +46,7 @@ def get_puzzle_position(fen, first_move):
     
     return board
 
-def render_chessboard(board, output_file="puzzle.png"):
+def render_chessboard(board, output_file="./puzzle.png"):
     """Render the chessboard and save it as a PNG image."""
     # Invert the board if it's Black's turn to move
     flip_board = (board.turn == chess.BLACK)
@@ -79,7 +79,7 @@ async def on_ready():
         json.dump(puzzle, json_file)
 
     # Render and save the puzzle image
-    render_chessboard(puzzle_board, output_file="puzzle.png")
+    render_chessboard(puzzle_board, output_file="./puzzle.png")
 
     # Create the message
     black_turn = (puzzle_board.turn == chess.BLACK)
