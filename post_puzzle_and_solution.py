@@ -126,7 +126,7 @@ async def on_ready():
     solution_message = post_solution()
     if solution_message:
         solution_msg = await channel.send(solution_message)
-        await solution_msg.pin()  # Pin the solution message
+        #await solution_msg.pin()  # Pin the solution message
         print("[LOG] Solution posted and pinned successfully.")
 
     # STEP 2: Post the new puzzle
@@ -164,7 +164,7 @@ async def on_ready():
 
     # Post the puzzle
     puzzle_msg = await channel.send(puzzle_message, file=discord.File(PUZZLE_IMAGE))
-    await puzzle_msg.pin()  # Pin the puzzle message
+    #await puzzle_msg.pin()  # Pin the puzzle message
     print(f"[LOG] New puzzle posted and pinned successfully: {puzzle['fen']}")
 
     await bot.close()
