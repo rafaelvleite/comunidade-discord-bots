@@ -1,0 +1,6 @@
+/.env
+/.venv
+lichess_db_puzzle.csv.zst
+lichess_db_puzzle.csv.zst copy
+logs/
+*.log
