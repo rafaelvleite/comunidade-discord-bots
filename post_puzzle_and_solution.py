@@ -18,7 +18,7 @@ POSTED_PUZZLES_LOG = os.path.join(BASE_DIR, "posted_puzzles.json")
 # Load environment variables
 load_dotenv(override=True)
 TOKEN = os.getenv("DISCORD_TOKEN")
-CHANNEL_ID = 1337058925962334208
+CHANNEL_ID = int(os.getenv("DISCORD_CHANNEL_ID"))
 
 intents = discord.Intents.default()
 bot = discord.Client(intents=intents)

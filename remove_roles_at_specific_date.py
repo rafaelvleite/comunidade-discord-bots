@@ -3,54 +3,25 @@ from discord.ext import commands
 import datetime
 from dotenv import load_dotenv
 import os
+import json
 
 load_dotenv(override=True)  # Force reloading environment variables
 
 TOKEN = os.getenv("DISCORD_TOKEN")
+GUILD_ID = int(os.getenv("DISCORD_GUILD_ID"))
+ROLE_ID = int(os.getenv("DISCORD_ROLE_ID"))
+REMOVAL_SCHEDULE_FILE = os.getenv("REMOVAL_SCHEDULE_FILE", "removal_schedule.json")
 
-# List of users to check with their removal dates
-removal_schedule = {
-    318467529645359104: "2026-02-05",  # Gosder
-    505589838964064275: "2026-02-05",  # kelvader18
-    1237888120784031835: "2026-02-05",  # João
-    818189931695571046: "2026-02-05",  # Light 🦇
-    803745674386341909: "2026-02-05",  # Lucaskb13
-    1123787651531677786: "2026-02-05",  # Devorador do Nubank
-    331793062416220160: "2026-02-05",  # heitorsp
-    1317980616826032202: "2026-02-05",  # Osix
-    848331633429577758: "2026-02-05",  # Zimmer
-    759121743599763497: "2026-02-05",  # mdkmaycon
-    184805940862648321: "2026-02-08",  # GuiTerrys...
-    348627491365191681: "2026-02-08",  # 
-    380130664894300182: "2026-02-08",  # 
-    1336744461874626714: "2026-02-08",  # 
-    513457225889480715: "2026-02-08",  # 
-    250375299571646465: "2026-02-08",  # 
-    1169805108004007998: "2026-02-08",  # 
-    406623812864573471: "2026-02-08",  # 
-    434786926604582922: "2026-02-08",  # 
-    1336500443207176212: "2026-02-08",  # 
-    737627497344008292: "2026-02-09",  # 
-    1123685529955860610: "2026-02-09",  # 
-    1082656916930564137: "2026-02-09",  # 
-    1324163988787040269: "2026-02-09",  # 
-    1303302964156436484: "2026-02-09",  # 
-    1286849167486091294: "2026-02-09",  # 
-    1172237946892587012: "2026-02-09",  # 
-    288817334246703105: "2026-02-09",  # 
-    787118989389201419: "2026-02-09",  # 
-    572986244070506497: "2026-02-09",  # 
-    715904530260295730: "2026-02-12",  # 
-    1338700162788233251: "2026-02-12",  # 
-    1286713855300599861: "2026-02-12",  # 
-    339894594168815616: "2026-02-12",  # 
-    550978800952016896: "2026-02-12",  # 
-    540204348362326043: "2026-02-12",  # 
-    424021271148363776: "2026-02-12",  # 
-    219614239730565121: "2026-02-12",  # 
-    574217617846566923: "2026-02-12",  # 
-    410233715017383936: "2026-02-12",  # 
-}
+# Load user removal schedule from JSON file
+def load_removal_schedule():
+    try:
+        with open(REMOVAL_SCHEDULE_FILE, "r") as file:
+            return json.load(file)
+    except (FileNotFoundError, json.JSONDecodeError):
+        print("[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.")
+        return {}
+
+removal_schedule = load_removal_schedule()
 
 # Bot intents (make sure you enable them in the Discord developer portal)
 intents = discord.Intents.default()
@@ -62,25 +33,21 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 async def on_ready():
     print(f"[LOG] Logged in as {bot.user}")
 
-    # Guild (server) ID and Role ID to be removed
-    guild_id = 1335436694844997734  # Replace with your server's ID
-    role_id = 1336061135446605925  # Replace with the role you want to remove
-
-    guild = bot.get_guild(guild_id)
+    guild = bot.get_guild(GUILD_ID)
     if not guild:
-        print(f"[ERROR] Could not find guild with ID {guild_id}. Please check the guild ID.")
+        print(f"[ERROR] Could not find guild with ID {GUILD_ID}. Please check the guild ID.")
         await bot.close()
         return
 
-    print(f"[LOG] Connected to guild: {guild.name} (ID: {guild_id})")
+    print(f"[LOG] Connected to guild: {guild.name} (ID: {GUILD_ID})")
 
-    role = guild.get_role(role_id)
+    role = guild.get_role(ROLE_ID)
     if not role:
-        print(f"[ERROR] Could not find role with ID {role_id}. Please check the role ID.")
+        print(f"[ERROR] Could not find role with ID {ROLE_ID}. Please check the role ID.")
         await bot.close()
         return
 
-    print(f"[LOG] Role to be removed: {role.name} (ID: {role_id})")
+    print(f"[LOG] Role to be removed: {role.name} (ID: {ROLE_ID})")
 
     # Check the removal dates
     today = datetime.date.today().strftime("%Y-%m-%d")
