@@ -26,3 +26,1423 @@
 [LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
 [INFO] No action for mdkmaycon today. Removal date not reached.
 [LOG] Finished processing all users.
+[2025-02-06 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-06 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-02-06 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 434c49d203d3d8b58b57c16053c9c6bb).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-06
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Devorador do Nubank with scheduled removal date: 2026-02-05
+[INFO] No action for Devorador do Nubank today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-07 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-07 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-07 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0f917fd2e36f35b25f90a81ebbe297de).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-07
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Devorador do Nubank with scheduled removal date: 2026-02-05
+[INFO] No action for Devorador do Nubank today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-08 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-08 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-02-08 00:00:04] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: bd2c7f9c38fcbdf3e6e38583e2d7235a).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-08
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Devorador do Nubank with scheduled removal date: 2026-02-05
+[INFO] No action for Devorador do Nubank today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-09 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-09 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-09 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 73150cc1683b1505c0848d2117ee50fd).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-09
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: ablublublé with scheduled removal date: 2026-02-08
+[INFO] No action for ablublublé today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Enzo with scheduled removal date: 2026-02-08
+[INFO] No action for Enzo today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-10 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-10 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-10 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: cd8a4a261f362316e2cb34706e8f5305).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-10
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: ablublublé with scheduled removal date: 2026-02-08
+[INFO] No action for ablublublé today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-11 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-11 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-02-11 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 512fe6b4c6c32e483df6a38baff2146b).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-11
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: ablublublé with scheduled removal date: 2026-02-08
+[INFO] No action for ablublublé today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-12 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-12 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-02-12 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1bb6e5935dd3c20e76f84ae0a1d1f0fe).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-12
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-13 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-13 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-13 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 7619f4244040b6e300974b72e6eba834).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-13
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Thanos Chess with scheduled removal date: 2026-02-09
+[INFO] No action for Thanos Chess today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-14 00:00:02] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-14 00:00:02] [INFO    ] discord.client: logging in using static token
+[2025-02-14 00:00:04] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ee3aed5c75da0bded617a6be8d4cff9a).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-14
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Thanos Chess with scheduled removal date: 2026-02-09
+[INFO] No action for Thanos Chess today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-15 00:00:05] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-15 00:00:05] [INFO    ] discord.client: logging in using static token
+[2025-02-15 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: f3328e6b326019ff0f8fbb540e7c2d25).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-15
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: Satoru Zeck with scheduled removal date: 2026-02-12
+[INFO] No action for Satoru Zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-16 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-16 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-16 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: b0839eddbfaf75a17892001b2354f0ef).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-16
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-17 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-17 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-17 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 8c9501224d51bacb0f25453f7c45eb36).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-17
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-18 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-18 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-02-18 00:00:04] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e1d1e884b0c511e7ba11f1ce996bef15).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-18
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-19 00:00:05] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-19 00:00:05] [INFO    ] discord.client: logging in using static token
+[2025-02-19 00:00:07] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 2356151a00c2741c0c6866a1a077940f).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-19
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-20 00:00:05] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-20 00:00:05] [INFO    ] discord.client: logging in using static token
+[2025-02-20 00:00:07] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0660822b4f81407fdc603a6ac170d7e3).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-20
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-21 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-21 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-02-21 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 9b4c00ffc921f6c9d26d50d96fcf8090).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-21
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-22 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-22 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-02-22 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 761ca4dfb29eee43bc615eb07625cf84).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-22
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-23 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-23 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-23 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 33d38c675cba81ec265f6f679517b014).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-23
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Unknown User (1317980616826032202) with scheduled removal date: 2026-02-05
+[INFO] No action for Unknown User (1317980616826032202) today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-24 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-24 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-02-24 00:00:04] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: aa55c6c965b9c90b53d6954e9d99dc2f).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-24
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Unknown User (1317980616826032202) with scheduled removal date: 2026-02-05
+[INFO] No action for Unknown User (1317980616826032202) today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: diablo with scheduled removal date: 2026-02-12
+[INFO] No action for diablo today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.
+[2025-02-25 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-25 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-25 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: b845177be66ef5b909730b555c015d7e).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-25
+[LOG] Checking user: Gosder with scheduled removal date: 2026-02-05
+[INFO] No action for Gosder today. Removal date not reached.
+[LOG] Checking user: kelvader18 with scheduled removal date: 2026-02-05
+[INFO] No action for kelvader18 today. Removal date not reached.
+[LOG] Checking user: João with scheduled removal date: 2026-02-05
+[INFO] No action for João today. Removal date not reached.
+[LOG] Checking user: Light 🦇 with scheduled removal date: 2026-02-05
+[INFO] No action for Light 🦇 today. Removal date not reached.
+[LOG] Checking user: Lucaskb13 with scheduled removal date: 2026-02-05
+[INFO] No action for Lucaskb13 today. Removal date not reached.
+[LOG] Checking user: Mathh_euz with scheduled removal date: 2026-02-05
+[INFO] No action for Mathh_euz today. Removal date not reached.
+[LOG] Checking user: heitorsp with scheduled removal date: 2026-02-05
+[INFO] No action for heitorsp today. Removal date not reached.
+[LOG] Checking user: Osix with scheduled removal date: 2026-02-05
+[INFO] No action for Osix today. Removal date not reached.
+[LOG] Checking user: Zimmer with scheduled removal date: 2026-02-05
+[INFO] No action for Zimmer today. Removal date not reached.
+[LOG] Checking user: mdkmaycon with scheduled removal date: 2026-02-05
+[INFO] No action for mdkmaycon today. Removal date not reached.
+[LOG] Checking user: GuiTerrys... with scheduled removal date: 2026-02-08
+[INFO] No action for GuiTerrys... today. Removal date not reached.
+[LOG] Checking user: Max with scheduled removal date: 2026-02-08
+[INFO] No action for Max today. Removal date not reached.
+[LOG] Checking user: Joao Luiz with scheduled removal date: 2026-02-08
+[INFO] No action for Joao Luiz today. Removal date not reached.
+[LOG] Checking user: talent_player000 with scheduled removal date: 2026-02-08
+[INFO] No action for talent_player000 today. Removal date not reached.
+[LOG] Checking user: !peuzin_iluminado with scheduled removal date: 2026-02-08
+[INFO] No action for !peuzin_iluminado today. Removal date not reached.
+[LOG] Checking user: woo with scheduled removal date: 2026-02-08
+[INFO] No action for woo today. Removal date not reached.
+[LOG] Checking user: formigajapa2 with scheduled removal date: 2026-02-08
+[INFO] No action for formigajapa2 today. Removal date not reached.
+[LOG] Checking user: yoshi with scheduled removal date: 2026-02-08
+[INFO] No action for yoshi today. Removal date not reached.
+[LOG] Checking user: neogalagon with scheduled removal date: 2026-02-08
+[INFO] No action for neogalagon today. Removal date not reached.
+[LOG] Checking user: Baroli ♟🇧🇷 with scheduled removal date: 2026-02-08
+[INFO] No action for Baroli ♟🇧🇷 today. Removal date not reached.
+[LOG] Checking user: Kamui. with scheduled removal date: 2026-02-09
+[INFO] No action for Kamui. today. Removal date not reached.
+[LOG] Checking user: 𝐧𝐢𝐜𝐞𝐉𝐕 ザ with scheduled removal date: 2026-02-09
+[INFO] No action for 𝐧𝐢𝐜𝐞𝐉𝐕 ザ today. Removal date not reached.
+[LOG] Checking user: Melissa with scheduled removal date: 2026-02-09
+[INFO] No action for Melissa today. Removal date not reached.
+[LOG] Checking user: ChessBunny with scheduled removal date: 2026-02-09
+[INFO] No action for ChessBunny today. Removal date not reached.
+[LOG] Checking user: Art with scheduled removal date: 2026-02-09
+[INFO] No action for Art today. Removal date not reached.
+[LOG] Checking user: 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 with scheduled removal date: 2026-02-09
+[INFO] No action for 𝘏𝘢𝘱𝘱𝘦𝘯𝘴 today. Removal date not reached.
+[LOG] Checking user: Leandro Dione with scheduled removal date: 2026-02-09
+[INFO] No action for Leandro Dione today. Removal date not reached.
+[LOG] Checking user: Rafael with scheduled removal date: 2026-02-09
+[INFO] No action for Rafael today. Removal date not reached.
+[LOG] Checking user: Noser with scheduled removal date: 2026-02-09
+[INFO] No action for Noser today. Removal date not reached.
+[LOG] Checking user: ryab with scheduled removal date: 2026-02-09
+[INFO] No action for ryab today. Removal date not reached.
+[LOG] Checking user: ??? with scheduled removal date: 2026-02-12
+[INFO] No action for ??? today. Removal date not reached.
+[LOG] Checking user: Jedi capivara Master with scheduled removal date: 2026-02-12
+[INFO] No action for Jedi capivara Master today. Removal date not reached.
+[LOG] Checking user: odiodxz with scheduled removal date: 2026-02-12
+[INFO] No action for odiodxz today. Removal date not reached.
+[LOG] Checking user: rmyght with scheduled removal date: 2026-02-12
+[INFO] No action for rmyght today. Removal date not reached.
+[LOG] Checking user: Yugo with scheduled removal date: 2026-02-12
+[INFO] No action for Yugo today. Removal date not reached.
+[LOG] Checking user: zeck with scheduled removal date: 2026-02-12
+[INFO] No action for zeck today. Removal date not reached.
+[LOG] Checking user: PudimLendário with scheduled removal date: 2026-02-12
+[INFO] No action for PudimLendário today. Removal date not reached.
+[LOG] Checking user: Ederson Ferreira (Peka) with scheduled removal date: 2026-02-12
+[INFO] No action for Ederson Ferreira (Peka) today. Removal date not reached.
+[LOG] Checking user: Ju4n with scheduled removal date: 2026-02-12
+[INFO] No action for Ju4n today. Removal date not reached.
+[LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
+[INFO] No action for Lstark today. Removal date not reached.
+[LOG] Finished processing all users.

@@ -1,0 +1,102 @@
+[2025-02-06 15:03:06] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:03:07] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1308b12e66bd9a20aa1f27bee9599e24).
+[2025-02-06 15:05:36] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:05:38] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 6d20a4c2a889f880c924555ea4aa417f).
+[2025-02-06 15:12:41] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:12:43] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: d0a6ab45ae10d149209333c61bd05430).
+[2025-02-06 15:12:45] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/root/comunidade-discord-bots/.venv/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/root/comunidade-discord-bots/post_daily_puzzle.py", line 70, in on_ready
+    puzzle = get_random_puzzle()
+  File "/root/comunidade-discord-bots/post_daily_puzzle.py", line 22, in get_random_puzzle
+    with open("lichess_db_puzzle.csv.zst", "rb") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'lichess_db_puzzle.csv.zst'
+[2025-02-06 15:24:23] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:24:24] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 2ef3075c481779d6428770da3b1dd59c).
+[2025-02-06 15:24:26] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/root/comunidade-discord-bots/.venv/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/root/comunidade-discord-bots/post_daily_puzzle.py", line 70, in on_ready
+    puzzle = get_random_puzzle()
+  File "/root/comunidade-discord-bots/post_daily_puzzle.py", line 22, in get_random_puzzle
+    with open("lichess_db_puzzle.csv.zst", "rb") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'lichess_db_puzzle.csv.zst'
+[2025-02-06 15:25:21] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:25:24] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 7d62d479d81f072ba580a241dde33cb8).
+[2025-02-06 15:25:26] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/root/comunidade-discord-bots/.venv/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/root/comunidade-discord-bots/post_daily_puzzle.py", line 70, in on_ready
+    puzzle = get_random_puzzle()
+  File "/root/comunidade-discord-bots/post_daily_puzzle.py", line 22, in get_random_puzzle
+    with open("lichess_db_puzzle.csv.zst", "rb") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'lichess_db_puzzle.csv.zst'
+[2025-02-06 15:28:46] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:28:47] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 986926d1b042cefb9bed2ed57a2687ba).
+[2025-02-06 15:33:03] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:33:04] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: de02199f798b668b69be9d4827b36a35).
+[2025-02-06 15:40:27] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:40:28] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 3913d32b12e6126d15f053434ec3617d).
+[2025-02-06 15:40:30] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/root/comunidade-discord-bots/.venv/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/root/comunidade-discord-bots/post_daily_puzzle.py", line 75, in on_ready
+    puzzle = get_random_puzzle()
+  File "/root/comunidade-discord-bots/post_daily_puzzle.py", line 27, in get_random_puzzle
+    with open("./lichess_db_puzzle.csv.zst", "rb") as file:
+FileNotFoundError: [Errno 2] No such file or directory: './lichess_db_puzzle.csv.zst'
+[2025-02-06 15:43:18] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:43:19] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 98d88658707f4f99667da6342131bf91).
+[2025-02-06 15:49:09] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:49:10] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e15bde97fea19cd15a1278b4eb820c0c).
+[2025-02-06 15:53:56] [INFO    ] discord.client: logging in using static token
+[2025-02-06 15:53:57] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 079aca5d4a436953f7acea614e9e2239).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Puzzle posted successfully: r2qk2r/pp3ppp/2nbpn2/3pN3/3P4/2PQ4/PP3PPP/RNB1R1K1 b kq - 5 10
+[2025-02-06 16:22:35] [INFO    ] discord.client: logging in using static token
+[2025-02-06 16:22:36] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 3116b07a2fa694445aa7aa6696abf050).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Puzzle posted successfully: r4rk1/pb4p1/2p4p/3p4/2pQ2P1/2N2q2/PPP2P1R/2K4R w - - 0 24
+[2025-02-06 16:38:16] [INFO    ] discord.client: logging in using static token
+[2025-02-06 16:38:17] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ff2617557e3d1fb748fa8a5a32d886d6).
+[2025-02-06 16:38:29] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/root/comunidade-discord-bots/.venv/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/root/comunidade-discord-bots/post_daily_puzzle.py", line 112, in on_ready
+    await message.pin()
+  File "/root/comunidade-discord-bots/.venv/lib/python3.10/site-packages/discord/message.py", line 1188, in pin
+    await self._state.http.pin_message(self.channel.id, self.id, reason=reason)
+  File "/root/comunidade-discord-bots/.venv/lib/python3.10/site-packages/discord/http.py", line 752, in request
+    raise Forbidden(response, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+[2025-02-06 16:43:44] [INFO    ] discord.client: logging in using static token
+[2025-02-06 16:43:46] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: c98e82357e945d25f52fa31f65226e9c).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Puzzle posted successfully: 4rnk1/3q1p1p/3p2P1/p1pPr2P/NpPb4/1P3R1Q/P2B4/2K4R b - - 0 31
+[LOG] Message pinned successfully.
+[2025-02-06 16:45:51] [INFO    ] discord.client: logging in using static token
+[2025-02-06 16:45:52] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: f737e1d6b8eb563695b4d4fd29db9bbc).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Puzzle posted successfully: r4rk1/1ppqbpp1/p1n1b2p/3pP1NQ/3P4/2PB2P1/PP5P/R1B2RK1 b - - 8 17
+[LOG] Message pinned successfully.
+[2025-02-06 16:46:32] [INFO    ] discord.client: logging in using static token
+[2025-02-06 16:46:34] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 8e1ff39ef1efe2de1e9dd104209f7649).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Puzzle posted successfully: rn3rk1/pp1b1ppp/1q2pn2/2bp4/2PNP3/2NBBP2/PP3QPP/R4RK1 b - - 4 13
+[LOG] Message pinned successfully.
+[2025-02-06 16:50:02] [INFO    ] discord.client: logging in using static token
+[2025-02-06 16:50:04] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1c19960be59add81032be73079c2f9bb).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Puzzle posted successfully: 6k1/ppp2r1p/4p1pB/2Pn2R1/3P3P/6Q1/PP4PK/1q6 w - - 5 36
+[LOG] Message pinned successfully.
+[2025-02-06 16:51:11] [INFO    ] discord.client: logging in using static token
+[2025-02-06 16:51:12] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 1390049a21267376105cc66014b4fc88).
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Puzzle posted successfully: r1b1kr2/p3n3/2p1pB1p/q2p4/1b3P2/PPNB4/2PQ2PP/R3K2R w KQq - 1 17
+[LOG] Message pinned successfully.
