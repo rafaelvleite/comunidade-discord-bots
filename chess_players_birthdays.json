@@ -1,0 +1,2432 @@
+[
+  {
+    "Name":"William Steinitz",
+    "Birth Year":1836,
+    "Birth Date":"05-14",
+    "Full Birth Date":"1836-05-14"
+  },
+  {
+    "Name":"Emanuel Lasker",
+    "Birth Year":1868,
+    "Birth Date":"12-24",
+    "Full Birth Date":"1868-12-24"
+  },
+  {
+    "Name":"Jose Raul Capablanca",
+    "Birth Year":1888,
+    "Birth Date":"11-19",
+    "Full Birth Date":"1888-11-19"
+  },
+  {
+    "Name":"Alexander Alekhine",
+    "Birth Year":1892,
+    "Birth Date":"10-30",
+    "Full Birth Date":"1892-10-30"
+  },
+  {
+    "Name":"Max Euwe",
+    "Birth Year":1901,
+    "Birth Date":"05-20",
+    "Full Birth Date":"1901-05-20"
+  },
+  {
+    "Name":"Lyudmila Rudenko",
+    "Birth Year":1904,
+    "Birth Date":"07-27",
+    "Full Birth Date":"1904-07-27"
+  },
+  {
+    "Name":"Vera Menchik",
+    "Birth Year":1906,
+    "Birth Date":"02-16",
+    "Full Birth Date":"1906-02-16"
+  },
+  {
+    "Name":"Olga Rubtsova",
+    "Birth Year":1909,
+    "Birth Date":"08-20",
+    "Full Birth Date":"1909-08-20"
+  },
+  {
+    "Name":"Mikhail Botvinnik",
+    "Birth Year":1911,
+    "Birth Date":"08-17",
+    "Full Birth Date":"1911-08-17"
+  },
+  {
+    "Name":"Elisaveta Bykova",
+    "Birth Year":1913,
+    "Birth Date":"11-04",
+    "Full Birth Date":"1913-11-04"
+  },
+  {
+    "Name":"Paul Keres",
+    "Birth Year":1916,
+    "Birth Date":"01-07",
+    "Full Birth Date":"1916-01-07"
+  },
+  {
+    "Name":"Vasily Smyslov",
+    "Birth Year":1921,
+    "Birth Date":"03-24",
+    "Full Birth Date":"1921-03-24"
+  },
+  {
+    "Name":"Tigran Petrosian",
+    "Birth Year":1929,
+    "Birth Date":"06-17",
+    "Full Birth Date":"1929-06-17"
+  },
+  {
+    "Name":"Viktor Korchnoi",
+    "Birth Year":1931,
+    "Birth Date":"03-23",
+    "Full Birth Date":"1931-03-23"
+  },
+  {
+    "Name":"Bent Larsen",
+    "Birth Year":1935,
+    "Birth Date":"03-04",
+    "Full Birth Date":"1935-03-04"
+  },
+  {
+    "Name":"Mikhail Tal",
+    "Birth Year":1936,
+    "Birth Date":"11-09",
+    "Full Birth Date":"1936-11-09"
+  },
+  {
+    "Name":"Boris Spassky",
+    "Birth Year":1937,
+    "Birth Date":"01-30",
+    "Full Birth Date":"1937-01-30"
+  },
+  {
+    "Name":"Nona Gaprindashvili",
+    "Birth Year":1941,
+    "Birth Date":"05-03",
+    "Full Birth Date":"1941-05-03"
+  },
+  {
+    "Name":"Bobby Fischer",
+    "Birth Year":1943,
+    "Birth Date":"03-09",
+    "Full Birth Date":"1943-03-09"
+  },
+  {
+    "Name":"Vlastimil Hort",
+    "Birth Year":1944,
+    "Birth Date":"01-12",
+    "Full Birth Date":"1944-01-12"
+  },
+  {
+    "Name":"Robert Huebner",
+    "Birth Year":1948,
+    "Birth Date":"11-06",
+    "Full Birth Date":"1948-11-06"
+  },
+  {
+    "Name":"Anatoly Karpov",
+    "Birth Year":1951,
+    "Birth Date":"05-23",
+    "Full Birth Date":"1951-05-23"
+  },
+  {
+    "Name":"Jan Timman",
+    "Birth Year":1951,
+    "Birth Date":"12-14",
+    "Full Birth Date":"1951-12-14"
+  },
+  {
+    "Name":"Paul van der Sterren",
+    "Birth Year":1956,
+    "Birth Date":"03-17",
+    "Full Birth Date":"1956-03-17"
+  },
+  {
+    "Name":"Artur Yusupov",
+    "Birth Year":1960,
+    "Birth Date":"02-13",
+    "Full Birth Date":"1960-02-13"
+  },
+  {
+    "Name":"Zurab Azmaiparashvili",
+    "Birth Year":1960,
+    "Birth Date":"03-16",
+    "Full Birth Date":"1960-03-16"
+  },
+  {
+    "Name":"Maia Chiburdanidze",
+    "Birth Year":1961,
+    "Birth Date":"01-17",
+    "Full Birth Date":"1961-01-17"
+  },
+  {
+    "Name":"Nana Ioseliani",
+    "Birth Year":1962,
+    "Birth Date":"02-12",
+    "Full Birth Date":"1962-02-12"
+  },
+  {
+    "Name":"Jaan Ehlvest",
+    "Birth Year":1962,
+    "Birth Date":"10-14",
+    "Full Birth Date":"1962-10-14"
+  },
+  {
+    "Name":"J\u00f3hann Hjartarson",
+    "Birth Year":1963,
+    "Birth Date":"02-08",
+    "Full Birth Date":"1963-02-08"
+  },
+  {
+    "Name":"Garry Kasparov",
+    "Birth Year":1963,
+    "Birth Date":"04-13",
+    "Full Birth Date":"1963-04-13"
+  },
+  {
+    "Name":"Nigel Short",
+    "Birth Year":1965,
+    "Birth Date":"06-01",
+    "Full Birth Date":"1965-06-01"
+  },
+  {
+    "Name":"Kiril Georgiev",
+    "Birth Year":1965,
+    "Birth Date":"11-28",
+    "Full Birth Date":"1965-11-28"
+  },
+  {
+    "Name":"Alexander Khalifman",
+    "Birth Year":1966,
+    "Birth Date":"01-18",
+    "Full Birth Date":"1966-01-18"
+  },
+  {
+    "Name":"Evgeny Bareev",
+    "Birth Year":1966,
+    "Birth Date":"11-21",
+    "Full Birth Date":"1966-11-21"
+  },
+  {
+    "Name":"Ivan Sokolov",
+    "Birth Year":1968,
+    "Birth Date":"06-13",
+    "Full Birth Date":"1968-06-13"
+  },
+  {
+    "Name":"Boris Gelfand",
+    "Birth Year":1968,
+    "Birth Date":"06-24",
+    "Full Birth Date":"1968-06-24"
+  },
+  {
+    "Name":"Andrei Kharlov",
+    "Birth Year":1968,
+    "Birth Date":"11-20",
+    "Full Birth Date":"1968-11-20"
+  },
+  {
+    "Name":"Vasyl Ivanchuk",
+    "Birth Year":1969,
+    "Birth Date":"03-18",
+    "Full Birth Date":"1969-03-18"
+  },
+  {
+    "Name":"Susan Polgar",
+    "Birth Year":1969,
+    "Birth Date":"04-19",
+    "Full Birth Date":"1969-04-19"
+  },
+  {
+    "Name":"Viswanathan Anand",
+    "Birth Year":1969,
+    "Birth Date":"12-11",
+    "Full Birth Date":"1969-12-11"
+  },
+  {
+    "Name":"Xie Jun",
+    "Birth Year":1970,
+    "Birth Date":"10-30",
+    "Full Birth Date":"1970-10-30"
+  },
+  {
+    "Name":"Michael Adams",
+    "Birth Year":1971,
+    "Birth Date":"11-17",
+    "Full Birth Date":"1971-11-17"
+  },
+  {
+    "Name":"Vladimir Akopian",
+    "Birth Year":1971,
+    "Birth Date":"12-07",
+    "Full Birth Date":"1971-12-07"
+  },
+  {
+    "Name":"Victor Bologan",
+    "Birth Year":1971,
+    "Birth Date":"12-14",
+    "Full Birth Date":"1971-12-14"
+  },
+  {
+    "Name":"Alexei Shirov",
+    "Birth Year":1972,
+    "Birth Date":"07-04",
+    "Full Birth Date":"1972-07-04"
+  },
+  {
+    "Name":"Loek van Wely",
+    "Birth Year":1972,
+    "Birth Date":"10-07",
+    "Full Birth Date":"1972-10-07"
+  },
+  {
+    "Name":"Hicham Hamdouchi",
+    "Birth Year":1972,
+    "Birth Date":"10-08",
+    "Full Birth Date":"1972-10-08"
+  },
+  {
+    "Name":"Murtas Kazhgaleyev",
+    "Birth Year":1973,
+    "Birth Date":"11-17",
+    "Full Birth Date":"1973-11-17"
+  },
+  {
+    "Name":"Mohammed Al-Modiahki",
+    "Birth Year":1974,
+    "Birth Date":"06-01",
+    "Full Birth Date":"1974-06-01"
+  },
+  {
+    "Name":"Gata Kamsky",
+    "Birth Year":1974,
+    "Birth Date":"06-02",
+    "Full Birth Date":"1974-06-02"
+  },
+  {
+    "Name":"Veselin Topalov",
+    "Birth Year":1975,
+    "Birth Date":"03-15",
+    "Full Birth Date":"1975-03-15"
+  },
+  {
+    "Name":"Vladimir Kramnik",
+    "Birth Year":1975,
+    "Birth Date":"06-25",
+    "Full Birth Date":"1975-06-25"
+  },
+  {
+    "Name":"Zhu Chen",
+    "Birth Year":1976,
+    "Birth Date":"03-13",
+    "Full Birth Date":"1976-03-13"
+  },
+  {
+    "Name":"Peter Svidler",
+    "Birth Year":1976,
+    "Birth Date":"06-17",
+    "Full Birth Date":"1976-06-17"
+  },
+  {
+    "Name":"Judit Polgar",
+    "Birth Year":1976,
+    "Birth Date":"07-23",
+    "Full Birth Date":"1976-07-23"
+  },
+  {
+    "Name":"Alexander Morozevich",
+    "Birth Year":1977,
+    "Birth Date":"07-18",
+    "Full Birth Date":"1977-07-18"
+  },
+  {
+    "Name":"Sergei Movsesian",
+    "Birth Year":1978,
+    "Birth Date":"11-03",
+    "Full Birth Date":"1978-11-03"
+  },
+  {
+    "Name":"Antoaneta Stefanova",
+    "Birth Year":1979,
+    "Birth Date":"04-19",
+    "Full Birth Date":"1979-04-19"
+  },
+  {
+    "Name":"Peter Leko",
+    "Birth Year":1979,
+    "Birth Date":"09-08",
+    "Full Birth Date":"1979-09-08"
+  },
+  {
+    "Name":"Rustam Kasimdzhanov",
+    "Birth Year":1979,
+    "Birth Date":"12-05",
+    "Full Birth Date":"1979-12-05"
+  },
+  {
+    "Name":"Laurent Fressinet",
+    "Birth Year":1981,
+    "Birth Date":"11-30",
+    "Full Birth Date":"1981-11-30"
+  },
+  {
+    "Name":"Levon Aronian",
+    "Birth Year":1982,
+    "Birth Date":"10-06",
+    "Full Birth Date":"1982-10-06"
+  },
+  {
+    "Name":"Etienne Bacrot",
+    "Birth Year":1983,
+    "Birth Date":"01-22",
+    "Full Birth Date":"1983-01-22"
+  },
+  {
+    "Name":"Pavel Eljanov",
+    "Birth Year":1983,
+    "Birth Date":"05-10",
+    "Full Birth Date":"1983-05-10"
+  },
+  {
+    "Name":"Dmitry Jakovenko",
+    "Birth Year":1983,
+    "Birth Date":"06-29",
+    "Full Birth Date":"1983-06-29"
+  },
+  {
+    "Name":"Leinier Dominguez Perez",
+    "Birth Year":1983,
+    "Birth Date":"09-23",
+    "Full Birth Date":"1983-09-23"
+  },
+  {
+    "Name":"Ruslan Ponomariov",
+    "Birth Year":1983,
+    "Birth Date":"10-11",
+    "Full Birth Date":"1983-10-11"
+  },
+  {
+    "Name":"Alexander Grischuk",
+    "Birth Year":1983,
+    "Birth Date":"10-31",
+    "Full Birth Date":"1983-10-31"
+  },
+  {
+    "Name":"Baadur Jobava",
+    "Birth Year":1983,
+    "Birth Date":"11-26",
+    "Full Birth Date":"1983-11-26"
+  },
+  {
+    "Name":"Alexandra Kosteniuk",
+    "Birth Year":1984,
+    "Birth Date":"04-23",
+    "Full Birth Date":"1984-04-23"
+  },
+  {
+    "Name":"Tigran L. Petrosian",
+    "Birth Year":1984,
+    "Birth Date":"09-17",
+    "Full Birth Date":"1984-09-17"
+  },
+  {
+    "Name":"Elisabeth P\u00e4htz",
+    "Birth Year":1985,
+    "Birth Date":"01-08",
+    "Full Birth Date":"1985-01-08"
+  },
+  {
+    "Name":"David Navara",
+    "Birth Year":1985,
+    "Birth Date":"03-27",
+    "Full Birth Date":"1985-03-27"
+  },
+  {
+    "Name":"Erwin l'Ami",
+    "Birth Year":1985,
+    "Birth Date":"04-05",
+    "Full Birth Date":"1985-04-05"
+  },
+  {
+    "Name":"Shakhriyar Mamedyarov",
+    "Birth Year":1985,
+    "Birth Date":"04-12",
+    "Full Birth Date":"1985-04-12"
+  },
+  {
+    "Name":"Anton Korobov",
+    "Birth Year":1985,
+    "Birth Date":"06-25",
+    "Full Birth Date":"1985-06-25"
+  },
+  {
+    "Name":"Anna Ushenina",
+    "Birth Year":1985,
+    "Birth Date":"08-30",
+    "Full Birth Date":"1985-08-30"
+  },
+  {
+    "Name":"Bu Xiangzhi",
+    "Birth Year":1985,
+    "Birth Date":"10-12",
+    "Full Birth Date":"1985-10-12"
+  },
+  {
+    "Name":"Arkadij Naiditsch",
+    "Birth Year":1985,
+    "Birth Date":"10-25",
+    "Full Birth Date":"1985-10-25"
+  },
+  {
+    "Name":"Evgeny Alekseev",
+    "Birth Year":1985,
+    "Birth Date":"11-28",
+    "Full Birth Date":"1985-11-28"
+  },
+  {
+    "Name":"Ernesto Inarkiev",
+    "Birth Year":1985,
+    "Birth Date":"12-09",
+    "Full Birth Date":"1985-12-09"
+  },
+  {
+    "Name":"Pentala Harikrishna",
+    "Birth Year":1986,
+    "Birth Date":"05-10",
+    "Full Birth Date":"1986-05-10"
+  },
+  {
+    "Name":"Nana Dzagnidze",
+    "Birth Year":1987,
+    "Birth Date":"01-01",
+    "Full Birth Date":"1987-01-01"
+  },
+  {
+    "Name":"Radoslaw Wojtaszek",
+    "Birth Year":1987,
+    "Birth Date":"01-13",
+    "Full Birth Date":"1987-01-13"
+  },
+  {
+    "Name":"Nikita Vitiugov",
+    "Birth Year":1987,
+    "Birth Date":"02-04",
+    "Full Birth Date":"1987-02-04"
+  },
+  {
+    "Name":"Teimour Radjabov",
+    "Birth Year":1987,
+    "Birth Date":"03-12",
+    "Full Birth Date":"1987-03-12"
+  },
+  {
+    "Name":"Wang Yue",
+    "Birth Year":1987,
+    "Birth Date":"03-31",
+    "Full Birth Date":"1987-03-31"
+  },
+  {
+    "Name":"Koneru Humpy",
+    "Birth Year":1987,
+    "Birth Date":"05-31",
+    "Full Birth Date":"1987-05-31"
+  },
+  {
+    "Name":"Evgeny Tomashevsky",
+    "Birth Year":1987,
+    "Birth Date":"07-01",
+    "Full Birth Date":"1987-07-01"
+  },
+  {
+    "Name":"Hikaru Nakamura",
+    "Birth Year":1987,
+    "Birth Date":"09-12",
+    "Full Birth Date":"1987-09-12"
+  },
+  {
+    "Name":"Viktor Laznicka",
+    "Birth Year":1988,
+    "Birth Date":"01-09",
+    "Full Birth Date":"1988-01-09"
+  },
+  {
+    "Name":"Rauf Mamedov",
+    "Birth Year":1988,
+    "Birth Date":"04-26",
+    "Full Birth Date":"1988-04-26"
+  },
+  {
+    "Name":"Bassem Amin",
+    "Birth Year":1988,
+    "Birth Date":"09-09",
+    "Full Birth Date":"1988-09-09"
+  },
+  {
+    "Name":"Valentina Gunina",
+    "Birth Year":1989,
+    "Birth Date":"02-04",
+    "Full Birth Date":"1989-02-04"
+  },
+  {
+    "Name":"Li Chao",
+    "Birth Year":1989,
+    "Birth Date":"04-21",
+    "Full Birth Date":"1989-04-21"
+  },
+  {
+    "Name":"Wang Hao",
+    "Birth Year":1989,
+    "Birth Date":"08-04",
+    "Full Birth Date":"1989-08-04"
+  },
+  {
+    "Name":"Kateryna Lagno",
+    "Birth Year":1989,
+    "Birth Date":"12-27",
+    "Full Birth Date":"1989-12-27"
+  },
+  {
+    "Name":"Sergey Karjakin",
+    "Birth Year":1990,
+    "Birth Date":"01-12",
+    "Full Birth Date":"1990-01-12"
+  },
+  {
+    "Name":"Dmitry Andreikin",
+    "Birth Year":1990,
+    "Birth Date":"02-05",
+    "Full Birth Date":"1990-02-05"
+  },
+  {
+    "Name":"Anna Muzychuk",
+    "Birth Year":1990,
+    "Birth Date":"02-28",
+    "Full Birth Date":"1990-02-28"
+  },
+  {
+    "Name":"Jon Ludvig Hammer",
+    "Birth Year":1990,
+    "Birth Date":"06-02",
+    "Full Birth Date":"1990-06-02"
+  },
+  {
+    "Name":"Ian Nepomniachtchi",
+    "Birth Year":1990,
+    "Birth Date":"07-14",
+    "Full Birth Date":"1990-07-14"
+  },
+  {
+    "Name":"Ivan \u0160ari\u0107",
+    "Birth Year":1990,
+    "Birth Date":"08-17",
+    "Full Birth Date":"1990-08-17"
+  },
+  {
+    "Name":"Maxime Vachier-Lagrave",
+    "Birth Year":1990,
+    "Birth Date":"10-21",
+    "Full Birth Date":"1990-10-21"
+  },
+  {
+    "Name":"Romain Edouard",
+    "Birth Year":1990,
+    "Birth Date":"11-28",
+    "Full Birth Date":"1990-11-28"
+  },
+  {
+    "Name":"Magnus Carlsen",
+    "Birth Year":1990,
+    "Birth Date":"11-30",
+    "Full Birth Date":"1990-11-30"
+  },
+  {
+    "Name":"Ju Wenjun",
+    "Birth Year":1991,
+    "Birth Date":"01-31",
+    "Full Birth Date":"1991-01-31"
+  },
+  {
+    "Name":"L\u00ea Quang Li\u00eam",
+    "Birth Year":1991,
+    "Birth Date":"03-13",
+    "Full Birth Date":"1991-03-13"
+  },
+  {
+    "Name":"Tan Zhongyi",
+    "Birth Year":1991,
+    "Birth Date":"05-29",
+    "Full Birth Date":"1991-05-29"
+  },
+  {
+    "Name":"Sam Shankland",
+    "Birth Year":1991,
+    "Birth Date":"10-01",
+    "Full Birth Date":"1991-10-01"
+  },
+  {
+    "Name":"Anastasia Bodnaruk",
+    "Birth Year":1992,
+    "Birth Date":"03-30",
+    "Full Birth Date":"1992-03-30"
+  },
+  {
+    "Name":"Fabiano Caruana",
+    "Birth Year":1992,
+    "Birth Date":"07-30",
+    "Full Birth Date":"1992-07-30"
+  },
+  {
+    "Name":"Mariya Muzychuk",
+    "Birth Year":1992,
+    "Birth Date":"09-21",
+    "Full Birth Date":"1992-09-21"
+  },
+  {
+    "Name":"Ding Liren",
+    "Birth Year":1992,
+    "Birth Date":"10-24",
+    "Full Birth Date":"1992-10-24"
+  },
+  {
+    "Name":"Salem Saleh",
+    "Birth Year":1993,
+    "Birth Date":"01-04",
+    "Full Birth Date":"1993-01-04"
+  },
+  {
+    "Name":"Wesley So",
+    "Birth Year":1993,
+    "Birth Date":"09-10",
+    "Full Birth Date":"1993-09-10"
+  },
+  {
+    "Name":"Alexandr Predke",
+    "Birth Year":1994,
+    "Birth Date":"01-05",
+    "Full Birth Date":"1994-01-05"
+  },
+  {
+    "Name":"Hou Yifan",
+    "Birth Year":1994,
+    "Birth Date":"02-27",
+    "Full Birth Date":"1994-02-27"
+  },
+  {
+    "Name":"Yu Yangyi",
+    "Birth Year":1994,
+    "Birth Date":"06-08",
+    "Full Birth Date":"1994-06-08"
+  },
+  {
+    "Name":"Anish Giri",
+    "Birth Year":1994,
+    "Birth Date":"06-28",
+    "Full Birth Date":"1994-06-28"
+  },
+  {
+    "Name":"Vidit Gujrathi",
+    "Birth Year":1994,
+    "Birth Date":"10-24",
+    "Full Birth Date":"1994-10-24"
+  },
+  {
+    "Name":"Benjamin Bok",
+    "Birth Year":1995,
+    "Birth Date":"01-25",
+    "Full Birth Date":"1995-01-25"
+  },
+  {
+    "Name":"Vladimir Fedoseev",
+    "Birth Year":1995,
+    "Birth Date":"02-16",
+    "Full Birth Date":"1995-02-16"
+  },
+  {
+    "Name":"Nijat Abasov",
+    "Birth Year":1995,
+    "Birth Date":"05-14",
+    "Full Birth Date":"1995-05-14"
+  },
+  {
+    "Name":"Aleksandar Indjic",
+    "Birth Year":1995,
+    "Birth Date":"08-24",
+    "Full Birth Date":"1995-08-24"
+  },
+  {
+    "Name":"Richard Rapport",
+    "Birth Year":1996,
+    "Birth Date":"03-25",
+    "Full Birth Date":"1996-03-25"
+  },
+  {
+    "Name":"Daniil Dubov",
+    "Birth Year":1996,
+    "Birth Date":"04-18",
+    "Full Birth Date":"1996-04-18"
+  },
+  {
+    "Name":"Olexandr Bortnyk",
+    "Birth Year":1996,
+    "Birth Date":"10-18",
+    "Full Birth Date":"1996-10-18"
+  },
+  {
+    "Name":"Sarasadat Khademalsharieh",
+    "Birth Year":1997,
+    "Birth Date":"03-10",
+    "Full Birth Date":"1997-03-10"
+  },
+  {
+    "Name":"Lei Tingjie",
+    "Birth Year":1997,
+    "Birth Date":"03-13",
+    "Full Birth Date":"1997-03-13"
+  },
+  {
+    "Name":"Matthias Bl\u00fcbaum",
+    "Birth Year":1997,
+    "Birth Date":"04-18",
+    "Full Birth Date":"1997-04-18"
+  },
+  {
+    "Name":"Kirill Alekseenko",
+    "Birth Year":1997,
+    "Birth Date":"06-22",
+    "Full Birth Date":"1997-06-22"
+  },
+  {
+    "Name":"Vladislav Artemiev",
+    "Birth Year":1998,
+    "Birth Date":"03-05",
+    "Full Birth Date":"1998-03-05"
+  },
+  {
+    "Name":"Jan-Krzysztof Duda",
+    "Birth Year":1998,
+    "Birth Date":"06-24",
+    "Full Birth Date":"1998-06-24"
+  },
+  {
+    "Name":"Aleksandra Goryachkina",
+    "Birth Year":1998,
+    "Birth Date":"09-28",
+    "Full Birth Date":"1998-09-28"
+  },
+  {
+    "Name":"Jorden van Foreest",
+    "Birth Year":1999,
+    "Birth Date":"04-30",
+    "Full Birth Date":"1999-04-30"
+  },
+  {
+    "Name":"Wei Yi",
+    "Birth Year":1999,
+    "Birth Date":"06-02",
+    "Full Birth Date":"1999-06-02"
+  },
+  {
+    "Name":"Aryan Tari",
+    "Birth Year":1999,
+    "Birth Date":"06-04",
+    "Full Birth Date":"1999-06-04"
+  },
+  {
+    "Name":"Aravindh Chithambaram",
+    "Birth Year":1999,
+    "Birth Date":"09-11",
+    "Full Birth Date":"1999-09-11"
+  },
+  {
+    "Name":"Alexey Sarana",
+    "Birth Year":2000,
+    "Birth Date":"01-26",
+    "Full Birth Date":"2000-01-26"
+  },
+  {
+    "Name":"Max Warmerdam",
+    "Birth Year":2000,
+    "Birth Date":"03-30",
+    "Full Birth Date":"2000-03-30"
+  },
+  {
+    "Name":"Haik M. Martirosyan",
+    "Birth Year":2000,
+    "Birth Date":"07-14",
+    "Full Birth Date":"2000-07-14"
+  },
+  {
+    "Name":"Parham Maghsoodloo",
+    "Birth Year":2000,
+    "Birth Date":"08-12",
+    "Full Birth Date":"2000-08-12"
+  },
+  {
+    "Name":"Jeffery Xiong",
+    "Birth Year":2000,
+    "Birth Date":"10-30",
+    "Full Birth Date":"2000-10-30"
+  },
+  {
+    "Name":"Samuel Sevian",
+    "Birth Year":2000,
+    "Birth Date":"12-26",
+    "Full Birth Date":"2000-12-26"
+  },
+  {
+    "Name":"Aram Hakobyan",
+    "Birth Year":2001,
+    "Birth Date":"04-01",
+    "Full Birth Date":"2001-04-01"
+  },
+  {
+    "Name":"Bogdan-Daniel Deac",
+    "Birth Year":2001,
+    "Birth Date":"10-08",
+    "Full Birth Date":"2001-10-08"
+  },
+  {
+    "Name":"Thai Dai Van Nguyen",
+    "Birth Year":2001,
+    "Birth Date":"12-12",
+    "Full Birth Date":"2001-12-12"
+  },
+  {
+    "Name":"Nodirbek Yakubboev",
+    "Birth Year":2002,
+    "Birth Date":"01-23",
+    "Full Birth Date":"2002-01-23"
+  },
+  {
+    "Name":"Amin Tabatabaei",
+    "Birth Year":2002,
+    "Birth Date":"02-05",
+    "Full Birth Date":"2002-02-05"
+  },
+  {
+    "Name":"Andrey Esipenko",
+    "Birth Year":2002,
+    "Birth Date":"03-22",
+    "Full Birth Date":"2002-03-22"
+  },
+  {
+    "Name":"Alireza Firouzja",
+    "Birth Year":2003,
+    "Birth Date":"06-18",
+    "Full Birth Date":"2003-06-18"
+  },
+  {
+    "Name":"Hans Moke Niemann",
+    "Birth Year":2003,
+    "Birth Date":"06-20",
+    "Full Birth Date":"2003-06-20"
+  },
+  {
+    "Name":"Arjun Erigaisi",
+    "Birth Year":2003,
+    "Birth Date":"09-21",
+    "Full Birth Date":"2003-09-21"
+  },
+  {
+    "Name":"Bibisara Assaubayeva",
+    "Birth Year":2004,
+    "Birth Date":"02-26",
+    "Full Birth Date":"2004-02-26"
+  },
+  {
+    "Name":"Nihal Sarin",
+    "Birth Year":2004,
+    "Birth Date":"07-13",
+    "Full Birth Date":"2004-07-13"
+  },
+  {
+    "Name":"Nodirbek Abdusattorov",
+    "Birth Year":2004,
+    "Birth Date":"09-19",
+    "Full Birth Date":"2004-09-19"
+  },
+  {
+    "Name":"Vincent Keymer",
+    "Birth Year":2004,
+    "Birth Date":"11-15",
+    "Full Birth Date":"2004-11-15"
+  },
+  {
+    "Name":"R Praggnanandhaa",
+    "Birth Year":2005,
+    "Birth Date":"08-10",
+    "Full Birth Date":"2005-08-10"
+  },
+  {
+    "Name":"Daniel Dardha",
+    "Birth Year":2005,
+    "Birth Date":"10-01",
+    "Full Birth Date":"2005-10-01"
+  },
+  {
+    "Name":"Javokhir Sindarov",
+    "Birth Year":2005,
+    "Birth Date":"12-08",
+    "Full Birth Date":"2005-12-08"
+  },
+  {
+    "Name":"Gukesh D",
+    "Birth Year":2006,
+    "Birth Date":"05-29",
+    "Full Birth Date":"2006-05-29"
+  },
+  {
+    "Name":"Volodar Murzin",
+    "Birth Year":2006,
+    "Birth Date":"07-18",
+    "Full Birth Date":"2006-07-18"
+  },
+  {
+    "Name":"Denis Lazavik",
+    "Birth Year":2006,
+    "Birth Date":"11-17",
+    "Full Birth Date":"2006-11-17"
+  },
+  {
+    "Name":"1Benjamin Franklin",
+    "Birth Year":1706,
+    "Birth Date":"01-17",
+    "Full Birth Date":"1706-01-17"
+  },
+  {
+    "Name":"2Sam Loyd",
+    "Birth Year":1841,
+    "Birth Date":"01-30",
+    "Full Birth Date":"1841-01-30"
+  },
+  {
+    "Name":"3Carmine Nigro",
+    "Birth Year":1910,
+    "Birth Date":"01-02",
+    "Full Birth Date":"1910-01-02"
+  },
+  {
+    "Name":"4Walter Browne",
+    "Birth Year":1949,
+    "Birth Date":"01-10",
+    "Full Birth Date":"1949-01-10"
+  },
+  {
+    "Name":"5Kola Kwariani",
+    "Birth Year":1903,
+    "Birth Date":"01-16",
+    "Full Birth Date":"1903-01-16"
+  },
+  {
+    "Name":"6Aaron Pixton",
+    "Birth Year":1986,
+    "Birth Date":"01-13",
+    "Full Birth Date":"1986-01-13"
+  },
+  {
+    "Name":"7Irving Chernev",
+    "Birth Year":1900,
+    "Birth Date":"01-29",
+    "Full Birth Date":"1900-01-29"
+  },
+  {
+    "Name":"8Fred Reinfeld",
+    "Birth Year":1910,
+    "Birth Date":"01-27",
+    "Full Birth Date":"1910-01-27"
+  },
+  {
+    "Name":"9Tatev Abrahamyan",
+    "Birth Year":1988,
+    "Birth Date":"01-13",
+    "Full Birth Date":"1988-01-13"
+  },
+  {
+    "Name":"10Maxim Dlugy",
+    "Birth Year":1966,
+    "Birth Date":"01-29",
+    "Full Birth Date":"1966-01-29"
+  },
+  {
+    "Name":"11Hans Berliner",
+    "Birth Year":1929,
+    "Birth Date":"01-27",
+    "Full Birth Date":"1929-01-27"
+  },
+  {
+    "Name":"12Hugh Myers",
+    "Birth Year":1930,
+    "Birth Date":"01-23",
+    "Full Birth Date":"1930-01-23"
+  },
+  {
+    "Name":"13William Ewart Napier",
+    "Birth Year":1881,
+    "Birth Date":"01-27",
+    "Full Birth Date":"1881-01-27"
+  },
+  {
+    "Name":"14Alisa Mari\u0107",
+    "Birth Year":1970,
+    "Birth Date":"01-10",
+    "Full Birth Date":"1970-01-10"
+  },
+  {
+    "Name":"15Hermann Helms",
+    "Birth Year":1870,
+    "Birth Date":"01-05",
+    "Full Birth Date":"1870-01-05"
+  },
+  {
+    "Name":"16Anna Akhsharumova",
+    "Birth Year":1957,
+    "Birth Date":"01-09",
+    "Full Birth Date":"1957-01-09"
+  },
+  {
+    "Name":"17Mirjana Mari\u0107",
+    "Birth Year":1970,
+    "Birth Date":"01-10",
+    "Full Birth Date":"1970-01-10"
+  },
+  {
+    "Name":"18Boris Blumin",
+    "Birth Year":1908,
+    "Birth Date":"01-11",
+    "Full Birth Date":"1908-01-11"
+  },
+  {
+    "Name":"19Mike Goodall",
+    "Birth Year":1946,
+    "Birth Date":"01-13",
+    "Full Birth Date":"1946-01-13"
+  },
+  {
+    "Name":"20Birdie Reeve Kay",
+    "Birth Year":1907,
+    "Birth Date":"01-16",
+    "Full Birth Date":"1907-01-16"
+  },
+  {
+    "Name":"1Bob Ferguson (politician)",
+    "Birth Year":1965,
+    "Birth Date":"02-23",
+    "Full Birth Date":"1965-02-23"
+  },
+  {
+    "Name":"2Robert Sobel",
+    "Birth Year":1931,
+    "Birth Date":"02-19",
+    "Full Birth Date":"1931-02-19"
+  },
+  {
+    "Name":"3Arnold Denker",
+    "Birth Year":1914,
+    "Birth Date":"02-20",
+    "Full Birth Date":"1914-02-20"
+  },
+  {
+    "Name":"4Maurice Wertheim",
+    "Birth Year":1886,
+    "Birth Date":"02-16",
+    "Full Birth Date":"1886-02-16"
+  },
+  {
+    "Name":"5Jennifer Yu (chess player)",
+    "Birth Year":2002,
+    "Birth Date":"02-01",
+    "Full Birth Date":"2002-02-01"
+  },
+  {
+    "Name":"6Boris Gulko",
+    "Birth Year":1947,
+    "Birth Date":"02-09",
+    "Full Birth Date":"1947-02-09"
+  },
+  {
+    "Name":"7Asa Hoffmann",
+    "Birth Year":1943,
+    "Birth Date":"02-25",
+    "Full Birth Date":"1943-02-25"
+  },
+  {
+    "Name":"8Isaac Rice",
+    "Birth Year":1850,
+    "Birth Date":"02-22",
+    "Full Birth Date":"1850-02-22"
+  },
+  {
+    "Name":"9Patrick Wolff",
+    "Birth Year":1968,
+    "Birth Date":"02-15",
+    "Full Birth Date":"1968-02-15"
+  },
+  {
+    "Name":"10Lessing J. Rosenwald",
+    "Birth Year":1891,
+    "Birth Date":"02-10",
+    "Full Birth Date":"1891-02-10"
+  },
+  {
+    "Name":"11Tal Shaked",
+    "Birth Year":1978,
+    "Birth Date":"02-05",
+    "Full Birth Date":"1978-02-05"
+  },
+  {
+    "Name":"12James Tarjan",
+    "Birth Year":1952,
+    "Birth Date":"02-22",
+    "Full Birth Date":"1952-02-22"
+  },
+  {
+    "Name":"13Russ Chauvenet",
+    "Birth Year":1920,
+    "Birth Date":"02-12",
+    "Full Birth Date":"1920-02-12"
+  },
+  {
+    "Name":"14Danny Kopec",
+    "Birth Year":1954,
+    "Birth Date":"02-28",
+    "Full Birth Date":"1954-02-28"
+  },
+  {
+    "Name":"15Kenneth Thomas (chess player)",
+    "Birth Year":1938,
+    "Birth Date":"02-24",
+    "Full Birth Date":"1938-02-24"
+  },
+  {
+    "Name":"16Eugene Perelshteyn",
+    "Birth Year":1980,
+    "Birth Date":"02-02",
+    "Full Birth Date":"1980-02-02"
+  },
+  {
+    "Name":"17David S. Goodman",
+    "Birth Year":1958,
+    "Birth Date":"02-25",
+    "Full Birth Date":"1958-02-25"
+  },
+  {
+    "Name":"18Gisela Kahn Gresser",
+    "Birth Year":1906,
+    "Birth Date":"02-08",
+    "Full Birth Date":"1906-02-08"
+  },
+  {
+    "Name":"19Ilya Gurevich",
+    "Birth Year":1972,
+    "Birth Date":"02-08",
+    "Full Birth Date":"1972-02-08"
+  },
+  {
+    "Name":"20Alexander Goldin",
+    "Birth Year":1964,
+    "Birth Date":"02-27",
+    "Full Birth Date":"1964-02-27"
+  },
+  {
+    "Name":"1Bobby Fischer",
+    "Birth Year":1943,
+    "Birth Date":"03-09",
+    "Full Birth Date":"1943-03-09"
+  },
+  {
+    "Name":"2Yasser Seirawan",
+    "Birth Year":1960,
+    "Birth Date":"03-24",
+    "Full Birth Date":"1960-03-24"
+  },
+  {
+    "Name":"3Maurice Ashley",
+    "Birth Year":1966,
+    "Birth Date":"03-06",
+    "Full Birth Date":"1966-03-06"
+  },
+  {
+    "Name":"4Kenneth Rogoff",
+    "Birth Year":1953,
+    "Birth Date":"03-22",
+    "Full Birth Date":"1953-03-22"
+  },
+  {
+    "Name":"5Max Pomeranc",
+    "Birth Year":1984,
+    "Birth Date":"03-21",
+    "Full Birth Date":"1984-03-21"
+  },
+  {
+    "Name":"6Alan Trefler",
+    "Birth Year":1956,
+    "Birth Date":"03-10",
+    "Full Birth Date":"1956-03-10"
+  },
+  {
+    "Name":"7Peter Winston (chess player)",
+    "Birth Year":1958,
+    "Birth Date":"03-18",
+    "Full Birth Date":"1958-03-18"
+  },
+  {
+    "Name":"8Joel Benjamin",
+    "Birth Year":1964,
+    "Birth Date":"03-11",
+    "Full Birth Date":"1964-03-11"
+  },
+  {
+    "Name":"9Timur Gareyev",
+    "Birth Year":1988,
+    "Birth Date":"03-03",
+    "Full Birth Date":"1988-03-03"
+  },
+  {
+    "Name":"10Ted Hsu",
+    "Birth Year":1964,
+    "Birth Date":"03-04",
+    "Full Birth Date":"1964-03-04"
+  },
+  {
+    "Name":"11Edmar Mednis",
+    "Birth Year":1937,
+    "Birth Date":"03-22",
+    "Full Birth Date":"1937-03-22"
+  },
+  {
+    "Name":"12James Eade",
+    "Birth Year":1957,
+    "Birth Date":"03-23",
+    "Full Birth Date":"1957-03-23"
+  },
+  {
+    "Name":"13Eric Schiller",
+    "Birth Year":1955,
+    "Birth Date":"03-20",
+    "Full Birth Date":"1955-03-20"
+  },
+  {
+    "Name":"14Frank Brady (writer)",
+    "Birth Year":1934,
+    "Birth Date":"03-15",
+    "Full Birth Date":"1934-03-15"
+  },
+  {
+    "Name":"15Max Pavey",
+    "Birth Year":1918,
+    "Birth Date":"03-05",
+    "Full Birth Date":"1918-03-05"
+  },
+  {
+    "Name":"16Milan Vukcevich",
+    "Birth Year":1937,
+    "Birth Date":"03-11",
+    "Full Birth Date":"1937-03-11"
+  },
+  {
+    "Name":"17Larry Evans (chess player)",
+    "Birth Year":1932,
+    "Birth Date":"03-22",
+    "Full Birth Date":"1932-03-22"
+  },
+  {
+    "Name":"18George Henry Mackenzie",
+    "Birth Year":1837,
+    "Birth Date":"03-24",
+    "Full Birth Date":"1837-03-24"
+  },
+  {
+    "Name":"19Sam Palatnik",
+    "Birth Year":1950,
+    "Birth Date":"03-26",
+    "Full Birth Date":"1950-03-26"
+  },
+  {
+    "Name":"20Elena Donaldson-Akhmilovskaya",
+    "Birth Year":1957,
+    "Birth Date":"03-11",
+    "Full Birth Date":"1957-03-11"
+  },
+  {
+    "Name":"1Vladimir Nabokov",
+    "Birth Year":1899,
+    "Birth Date":"04-10",
+    "Full Birth Date":"1899-04-10"
+  },
+  {
+    "Name":"2Susan Polgar",
+    "Birth Year":1969,
+    "Birth Date":"04-19",
+    "Full Birth Date":"1969-04-19"
+  },
+  {
+    "Name":"3Awonder Liang",
+    "Birth Year":2003,
+    "Birth Date":"04-09",
+    "Full Birth Date":"2003-04-09"
+  },
+  {
+    "Name":"4Robert Byrne (chess player)",
+    "Birth Year":1928,
+    "Birth Date":"04-20",
+    "Full Birth Date":"1928-04-20"
+  },
+  {
+    "Name":"5Alex Yermolinsky",
+    "Birth Year":1958,
+    "Birth Date":"04-11",
+    "Full Birth Date":"1958-04-11"
+  },
+  {
+    "Name":"6Jude Acers",
+    "Birth Year":1944,
+    "Birth Date":"04-06",
+    "Full Birth Date":"1944-04-06"
+  },
+  {
+    "Name":"7Weaver W. Adams",
+    "Birth Year":1901,
+    "Birth Date":"04-28",
+    "Full Birth Date":"1901-04-28"
+  },
+  {
+    "Name":"8Lisa Lane",
+    "Birth Year":1938,
+    "Birth Date":"04-25",
+    "Full Birth Date":"1938-04-25"
+  },
+  {
+    "Name":"9Yury Shulman",
+    "Birth Year":1975,
+    "Birth Date":"04-29",
+    "Full Birth Date":"1975-04-29"
+  },
+  {
+    "Name":"10Morris Schapiro",
+    "Birth Year":1903,
+    "Birth Date":"04-09",
+    "Full Birth Date":"1903-04-09"
+  },
+  {
+    "Name":"11Arthur Dake",
+    "Birth Year":1910,
+    "Birth Date":"04-08",
+    "Full Birth Date":"1910-04-08"
+  },
+  {
+    "Name":"12Norman T. Whitaker",
+    "Birth Year":1890,
+    "Birth Date":"04-09",
+    "Full Birth Date":"1890-04-09"
+  },
+  {
+    "Name":"13Guillermo Ruiz",
+    "Birth Year":1943,
+    "Birth Date":"04-04",
+    "Full Birth Date":"1943-04-04"
+  },
+  {
+    "Name":"14Charles Jaffe",
+    "Birth Year":1879,
+    "Birth Date":"04-25",
+    "Full Birth Date":"1879-04-25"
+  },
+  {
+    "Name":"15James Mortimer (chess player)",
+    "Birth Year":1833,
+    "Birth Date":"04-22",
+    "Full Birth Date":"1833-04-22"
+  },
+  {
+    "Name":"16Herman Steiner",
+    "Birth Year":1905,
+    "Birth Date":"04-15",
+    "Full Birth Date":"1905-04-15"
+  },
+  {
+    "Name":"17Alon Greenfeld",
+    "Birth Year":1964,
+    "Birth Date":"04-17",
+    "Full Birth Date":"1964-04-17"
+  },
+  {
+    "Name":"18Camilla Baginskaite",
+    "Birth Year":1967,
+    "Birth Date":"04-24",
+    "Full Birth Date":"1967-04-24"
+  },
+  {
+    "Name":"19Raymond Weinstein",
+    "Birth Year":1941,
+    "Birth Date":"04-25",
+    "Full Birth Date":"1941-04-25"
+  },
+  {
+    "Name":"20Michael Valvo",
+    "Birth Year":1942,
+    "Birth Date":"04-19",
+    "Full Birth Date":"1942-04-19"
+  },
+  {
+    "Name":"1Eric Hansen (chess player)",
+    "Birth Year":1992,
+    "Birth Date":"05-24",
+    "Full Birth Date":"1992-05-24"
+  },
+  {
+    "Name":"2Wilhelm Steinitz",
+    "Birth Year":1836,
+    "Birth Date":"05-17",
+    "Full Birth Date":"1836-05-17"
+  },
+  {
+    "Name":"3Andrew Soltis",
+    "Birth Year":1947,
+    "Birth Date":"05-28",
+    "Full Birth Date":"1947-05-28"
+  },
+  {
+    "Name":"4Roman Dzindzichashvili",
+    "Birth Year":1944,
+    "Birth Date":"05-05",
+    "Full Birth Date":"1944-05-05"
+  },
+  {
+    "Name":"5Anthony Saidy",
+    "Birth Year":1937,
+    "Birth Date":"05-16",
+    "Full Birth Date":"1937-05-16"
+  },
+  {
+    "Name":"6Eric Lobron",
+    "Birth Year":1960,
+    "Birth Date":"05-07",
+    "Full Birth Date":"1960-05-07"
+  },
+  {
+    "Name":"7Morgan Pehme",
+    "Birth Year":1978,
+    "Birth Date":"05-05",
+    "Full Birth Date":"1978-05-05"
+  },
+  {
+    "Name":"8Kayden Troff",
+    "Birth Year":1998,
+    "Birth Date":"05-06",
+    "Full Birth Date":"1998-05-06"
+  },
+  {
+    "Name":"9Anjelina Belakovskaia",
+    "Birth Year":1969,
+    "Birth Date":"05-17",
+    "Full Birth Date":"1969-05-17"
+  },
+  {
+    "Name":"10Fufi Santori",
+    "Birth Year":1932,
+    "Birth Date":"05-07",
+    "Full Birth Date":"1932-05-07"
+  },
+  {
+    "Name":"11Alexander Ivanov (chess player)",
+    "Birth Year":1956,
+    "Birth Date":"05-01",
+    "Full Birth Date":"1956-05-01"
+  },
+  {
+    "Name":"12Armand Blackmar",
+    "Birth Year":1826,
+    "Birth Date":"05-30",
+    "Full Birth Date":"1826-05-30"
+  },
+  {
+    "Name":"13Jesse Kraai",
+    "Birth Year":1972,
+    "Birth Date":"05-06",
+    "Full Birth Date":"1972-05-06"
+  },
+  {
+    "Name":"14Batchimeg Tuvshintugs",
+    "Birth Year":1986,
+    "Birth Date":"05-03",
+    "Full Birth Date":"1986-05-03"
+  },
+  {
+    "Name":"15Igor Novikov (chess player)",
+    "Birth Year":1962,
+    "Birth Date":"05-23",
+    "Full Birth Date":"1962-05-23"
+  },
+  {
+    "Name":"16Alexander Fishbein",
+    "Birth Year":1968,
+    "Birth Date":"05-08",
+    "Full Birth Date":"1968-05-08"
+  },
+  {
+    "Name":"17Larry Parr (chess player)",
+    "Birth Year":1946,
+    "Birth Date":"05-21",
+    "Full Birth Date":"1946-05-21"
+  },
+  {
+    "Name":"18Bill Hook",
+    "Birth Year":1925,
+    "Birth Date":"05-28",
+    "Full Birth Date":"1925-05-28"
+  },
+  {
+    "Name":"19Robert Michael Snyder",
+    "Birth Year":1954,
+    "Birth Date":"05-04",
+    "Full Birth Date":"1954-05-04"
+  },
+  {
+    "Name":"20Walter Korn",
+    "Birth Year":1908,
+    "Birth Date":"05-22",
+    "Full Birth Date":"1908-05-22"
+  },
+  {
+    "Name":"1Paul Morphy",
+    "Birth Year":1837,
+    "Birth Date":"06-22",
+    "Full Birth Date":"1837-06-22"
+  },
+  {
+    "Name":"2Gata Kamsky",
+    "Birth Year":1974,
+    "Birth Date":"06-02",
+    "Full Birth Date":"1974-06-02"
+  },
+  {
+    "Name":"3Donald Byrne",
+    "Birth Year":1930,
+    "Birth Date":"06-12",
+    "Full Birth Date":"1930-06-12"
+  },
+  {
+    "Name":"4Vinay Bhat",
+    "Birth Year":1984,
+    "Birth Date":"06-04",
+    "Full Birth Date":"1984-06-04"
+  },
+  {
+    "Name":"5Paul Truong",
+    "Birth Year":1965,
+    "Birth Date":"06-02",
+    "Full Birth Date":"1965-06-02"
+  },
+  {
+    "Name":"6Larry Christiansen",
+    "Birth Year":1956,
+    "Birth Date":"06-27",
+    "Full Birth Date":"1956-06-27"
+  },
+  {
+    "Name":"7Israel Zilber",
+    "Birth Year":1933,
+    "Birth Date":"06-25",
+    "Full Birth Date":"1933-06-25"
+  },
+  {
+    "Name":"8Alisa Melekhina",
+    "Birth Year":1991,
+    "Birth Date":"06-26",
+    "Full Birth Date":"1991-06-26"
+  },
+  {
+    "Name":"9A. J. Steigman",
+    "Birth Year":1985,
+    "Birth Date":"06-23",
+    "Full Birth Date":"1985-06-23"
+  },
+  {
+    "Name":"10Calvin Blocker",
+    "Birth Year":1955,
+    "Birth Date":"06-28",
+    "Full Birth Date":"1955-06-28"
+  },
+  {
+    "Name":"11Leonid Shamkovich",
+    "Birth Year":1923,
+    "Birth Date":"06-01",
+    "Full Birth Date":"1923-06-01"
+  },
+  {
+    "Name":"12Irina Levitina",
+    "Birth Year":1954,
+    "Birth Date":"06-08",
+    "Full Birth Date":"1954-06-08"
+  },
+  {
+    "Name":"13S. Lipsch\u00fctz",
+    "Birth Year":1863,
+    "Birth Date":"06-04",
+    "Full Birth Date":"1863-06-04"
+  },
+  {
+    "Name":"14Mary Bain",
+    "Birth Year":1904,
+    "Birth Date":"06-08",
+    "Full Birth Date":"1904-06-08"
+  },
+  {
+    "Name":"15Norman Lessing",
+    "Birth Year":1911,
+    "Birth Date":"06-24",
+    "Full Birth Date":"1911-06-24"
+  },
+  {
+    "Name":"16Allen Kaufman",
+    "Birth Year":1933,
+    "Birth Date":"06-13",
+    "Full Birth Date":"1933-06-13"
+  },
+  {
+    "Name":"17Anna Hahn (chess player)",
+    "Birth Year":1976,
+    "Birth Date":"06-21",
+    "Full Birth Date":"1976-06-21"
+  },
+  {
+    "Name":"18Denis Barry",
+    "Birth Year":1929,
+    "Birth Date":"06-02",
+    "Full Birth Date":"1929-06-02"
+  },
+  {
+    "Name":"19Rudolph Sze",
+    "Birth Year":1890,
+    "Birth Date":"06-20",
+    "Full Birth Date":"1890-06-20"
+  },
+  {
+    "Name":"20Walter Penn Shipley",
+    "Birth Year":1860,
+    "Birth Date":"06-20",
+    "Full Birth Date":"1860-06-20"
+  },
+  {
+    "Name":"1Stanley Kubrick",
+    "Birth Year":1928,
+    "Birth Date":"07-26",
+    "Full Birth Date":"1928-07-26"
+  },
+  {
+    "Name":"2Marcel Duchamp",
+    "Birth Year":1887,
+    "Birth Date":"07-28",
+    "Full Birth Date":"1887-07-28"
+  },
+  {
+    "Name":"3Fabiano Caruana",
+    "Birth Year":1992,
+    "Birth Date":"07-30",
+    "Full Birth Date":"1992-07-30"
+  },
+  {
+    "Name":"4Pal Benko",
+    "Birth Year":1928,
+    "Birth Date":"07-15",
+    "Full Birth Date":"1928-07-15"
+  },
+  {
+    "Name":"5John M. Burke",
+    "Birth Year":2001,
+    "Birth Date":"07-01",
+    "Full Birth Date":"2001-07-01"
+  },
+  {
+    "Name":"6Marc Esserman",
+    "Birth Year":1983,
+    "Birth Date":"07-28",
+    "Full Birth Date":"1983-07-28"
+  },
+  {
+    "Name":"7Claude Bloodgood",
+    "Birth Year":1937,
+    "Birth Date":"07-14",
+    "Full Birth Date":"1937-07-14"
+  },
+  {
+    "Name":"8Paul Magriel",
+    "Birth Year":1946,
+    "Birth Date":"07-01",
+    "Full Birth Date":"1946-07-01"
+  },
+  {
+    "Name":"9Bill Robertie",
+    "Birth Year":1946,
+    "Birth Date":"07-09",
+    "Full Birth Date":"1946-07-09"
+  },
+  {
+    "Name":"10Nick de Firmian",
+    "Birth Year":1957,
+    "Birth Date":"07-26",
+    "Full Birth Date":"1957-07-26"
+  },
+  {
+    "Name":"11Hans Kmoch",
+    "Birth Year":1894,
+    "Birth Date":"07-25",
+    "Full Birth Date":"1894-07-25"
+  },
+  {
+    "Name":"12Conrad Holt",
+    "Birth Year":1993,
+    "Birth Date":"07-09",
+    "Full Birth Date":"1993-07-09"
+  },
+  {
+    "Name":"13Dan Heisman",
+    "Birth Year":1950,
+    "Birth Date":"07-08",
+    "Full Birth Date":"1950-07-08"
+  },
+  {
+    "Name":"14Viktors Pupols",
+    "Birth Year":1934,
+    "Birth Date":"07-31",
+    "Full Birth Date":"1934-07-31"
+  },
+  {
+    "Name":"15Anna Zatonskih",
+    "Birth Year":1978,
+    "Birth Date":"07-17",
+    "Full Birth Date":"1978-07-17"
+  },
+  {
+    "Name":"16Sidney Norman Bernstein",
+    "Birth Year":1911,
+    "Birth Date":"07-13",
+    "Full Birth Date":"1911-07-13"
+  },
+  {
+    "Name":"17Michael Khodarkovsky",
+    "Birth Year":1958,
+    "Birth Date":"07-21",
+    "Full Birth Date":"1958-07-21"
+  },
+  {
+    "Name":"18Albert Kapengut",
+    "Birth Year":1944,
+    "Birth Date":"07-04",
+    "Full Birth Date":"1944-07-04"
+  },
+  {
+    "Name":"19Melikset Khachiyan",
+    "Birth Year":1970,
+    "Birth Date":"07-06",
+    "Full Birth Date":"1970-07-06"
+  },
+  {
+    "Name":"20Marcel Sisniega Campbell",
+    "Birth Year":1959,
+    "Birth Date":"07-28",
+    "Full Birth Date":"1959-07-28"
+  },
+  {
+    "Name":"1Noam Elkies",
+    "Birth Year":1966,
+    "Birth Date":"08-25",
+    "Full Birth Date":"1966-08-25"
+  },
+  {
+    "Name":"2Arpad Elo",
+    "Birth Year":1903,
+    "Birth Date":"08-25",
+    "Full Birth Date":"1903-08-25"
+  },
+  {
+    "Name":"3Frank Marshall (chess player)",
+    "Birth Year":1877,
+    "Birth Date":"08-10",
+    "Full Birth Date":"1877-08-10"
+  },
+  {
+    "Name":"4Jeremy Silman",
+    "Birth Year":1954,
+    "Birth Date":"08-28",
+    "Full Birth Date":"1954-08-28"
+  },
+  {
+    "Name":"5Lev Alburt",
+    "Birth Year":1945,
+    "Birth Date":"08-21",
+    "Full Birth Date":"1945-08-21"
+  },
+  {
+    "Name":"6Jonathan Tisdall",
+    "Birth Year":1958,
+    "Birth Date":"08-26",
+    "Full Birth Date":"1958-08-26"
+  },
+  {
+    "Name":"7Lubomir Kavalek",
+    "Birth Year":1943,
+    "Birth Date":"08-09",
+    "Full Birth Date":"1943-08-09"
+  },
+  {
+    "Name":"8Preston Ware",
+    "Birth Year":1821,
+    "Birth Date":"08-12",
+    "Full Birth Date":"1821-08-12"
+  },
+  {
+    "Name":"9Jordy Mont-Reynaud",
+    "Birth Year":1983,
+    "Birth Date":"08-16",
+    "Full Birth Date":"1983-08-16"
+  },
+  {
+    "Name":"10Rochelle Ballantyne",
+    "Birth Year":1995,
+    "Birth Date":"08-30",
+    "Full Birth Date":"1995-08-30"
+  },
+  {
+    "Name":"11Michael Rohde (chess player)",
+    "Birth Year":1959,
+    "Birth Date":"08-26",
+    "Full Birth Date":"1959-08-26"
+  },
+  {
+    "Name":"12Michael Wilder",
+    "Birth Year":1962,
+    "Birth Date":"08-17",
+    "Full Birth Date":"1962-08-17"
+  },
+  {
+    "Name":"13Steven Zierk",
+    "Birth Year":1993,
+    "Birth Date":"08-27",
+    "Full Birth Date":"1993-08-27"
+  },
+  {
+    "Name":"14Leonid Yudasin",
+    "Birth Year":1959,
+    "Birth Date":"08-08",
+    "Full Birth Date":"1959-08-08"
+  },
+  {
+    "Name":"15Paul Felix Schmidt",
+    "Birth Year":1916,
+    "Birth Date":"08-20",
+    "Full Birth Date":"1916-08-20"
+  },
+  {
+    "Name":"16Ildar Ibragimov",
+    "Birth Year":1967,
+    "Birth Date":"08-16",
+    "Full Birth Date":"1967-08-16"
+  },
+  {
+    "Name":"17Sabina-Francesca Foisor",
+    "Birth Year":1989,
+    "Birth Date":"08-30",
+    "Full Birth Date":"1989-08-30"
+  },
+  {
+    "Name":"18Mackenzie Molner",
+    "Birth Year":1988,
+    "Birth Date":"08-01",
+    "Full Birth Date":"1988-08-01"
+  },
+  {
+    "Name":"19Rudolf Pitschak",
+    "Birth Year":1902,
+    "Birth Date":"08-05",
+    "Full Birth Date":"1902-08-05"
+  },
+  {
+    "Name":"20Nicolai Jasnogrodsky",
+    "Birth Year":1859,
+    "Birth Date":"08-06",
+    "Full Birth Date":"1859-08-06"
+  },
+  {
+    "Name":"1Kurt Hugo Schneider",
+    "Birth Year":1988,
+    "Birth Date":"09-07",
+    "Full Birth Date":"1988-09-07"
+  },
+  {
+    "Name":"2Ben Finegold",
+    "Birth Year":1969,
+    "Birth Date":"09-06",
+    "Full Birth Date":"1969-09-06"
+  },
+  {
+    "Name":"3Sam Sloan",
+    "Birth Year":1944,
+    "Birth Date":"09-07",
+    "Full Birth Date":"1944-09-07"
+  },
+  {
+    "Name":"4Bruce Pandolfini",
+    "Birth Year":1947,
+    "Birth Date":"09-17",
+    "Full Birth Date":"1947-09-17"
+  },
+  {
+    "Name":"5Aleksandr Lenderman",
+    "Birth Year":1989,
+    "Birth Date":"09-23",
+    "Full Birth Date":"1989-09-23"
+  },
+  {
+    "Name":"6Elm\u0101rs Zemgalis",
+    "Birth Year":1923,
+    "Birth Date":"09-09",
+    "Full Birth Date":"1923-09-09"
+  },
+  {
+    "Name":"7George Koltanowski",
+    "Birth Year":1903,
+    "Birth Date":"09-17",
+    "Full Birth Date":"1903-09-17"
+  },
+  {
+    "Name":"8Alexander Shabalov",
+    "Birth Year":1967,
+    "Birth Date":"09-12",
+    "Full Birth Date":"1967-09-12"
+  },
+  {
+    "Name":"9Alexander Onischuk",
+    "Birth Year":1975,
+    "Birth Date":"09-03",
+    "Full Birth Date":"1975-09-03"
+  },
+  {
+    "Name":"10John L. Watson",
+    "Birth Year":1951,
+    "Birth Date":"09-05",
+    "Full Birth Date":"1951-09-05"
+  },
+  {
+    "Name":"11John W. Collins",
+    "Birth Year":1912,
+    "Birth Date":"09-23",
+    "Full Birth Date":"1912-09-23"
+  },
+  {
+    "Name":"12John Fedorowicz",
+    "Birth Year":1958,
+    "Birth Date":"09-27",
+    "Full Birth Date":"1958-09-27"
+  },
+  {
+    "Name":"13Gregory Serper",
+    "Birth Year":1969,
+    "Birth Date":"09-14",
+    "Full Birth Date":"1969-09-14"
+  },
+  {
+    "Name":"14William John Donaldson",
+    "Birth Year":1958,
+    "Birth Date":"09-24",
+    "Full Birth Date":"1958-09-24"
+  },
+  {
+    "Name":"15Anya Corke",
+    "Birth Year":1990,
+    "Birth Date":"09-12",
+    "Full Birth Date":"1990-09-12"
+  },
+  {
+    "Name":"16John Grefe",
+    "Birth Year":1947,
+    "Birth Date":"09-06",
+    "Full Birth Date":"1947-09-06"
+  },
+  {
+    "Name":"17Dmitry Gurevich",
+    "Birth Year":1956,
+    "Birth Date":"09-11",
+    "Full Birth Date":"1956-09-11"
+  },
+  {
+    "Name":"18Eugene Delmar",
+    "Birth Year":1841,
+    "Birth Date":"09-12",
+    "Full Birth Date":"1841-09-12"
+  },
+  {
+    "Name":"19Martha Fierro",
+    "Birth Year":1977,
+    "Birth Date":"09-06",
+    "Full Birth Date":"1977-09-06"
+  },
+  {
+    "Name":"20Rusudan Goletiani",
+    "Birth Year":1980,
+    "Birth Date":"09-08",
+    "Full Birth Date":"1980-09-08"
+  },
+  {
+    "Name":"1Peter Thiel",
+    "Birth Year":1967,
+    "Birth Date":"10-11",
+    "Full Birth Date":"1967-10-11"
+  },
+  {
+    "Name":"2Jeffery Xiong",
+    "Birth Year":2000,
+    "Birth Date":"10-30",
+    "Full Birth Date":"2000-10-30"
+  },
+  {
+    "Name":"3Sam Shankland",
+    "Birth Year":1991,
+    "Birth Date":"10-01",
+    "Full Birth Date":"1991-10-01"
+  },
+  {
+    "Name":"4Daniel Rensch",
+    "Birth Year":1985,
+    "Birth Date":"10-10",
+    "Full Birth Date":"1985-10-10"
+  },
+  {
+    "Name":"5Reuben Fine",
+    "Birth Year":1914,
+    "Birth Date":"10-11",
+    "Full Birth Date":"1914-10-11"
+  },
+  {
+    "Name":"6Ray Robson",
+    "Birth Year":1994,
+    "Birth Date":"10-25",
+    "Full Birth Date":"1994-10-25"
+  },
+  {
+    "Name":"7Grace Alekhine",
+    "Birth Year":1876,
+    "Birth Date":"10-26",
+    "Full Birth Date":"1876-10-26"
+  },
+  {
+    "Name":"8Gregory Kaidanov",
+    "Birth Year":1959,
+    "Birth Date":"10-11",
+    "Full Birth Date":"1959-10-11"
+  },
+  {
+    "Name":"9Arthur Bisguier",
+    "Birth Year":1929,
+    "Birth Date":"10-08",
+    "Full Birth Date":"1929-10-08"
+  },
+  {
+    "Name":"10Shelby Lyman",
+    "Birth Year":1936,
+    "Birth Date":"10-22",
+    "Full Birth Date":"1936-10-22"
+  },
+  {
+    "Name":"11James Sherwin",
+    "Birth Year":1933,
+    "Birth Date":"10-25",
+    "Full Birth Date":"1933-10-25"
+  },
+  {
+    "Name":"12Herbert Seidman",
+    "Birth Year":1920,
+    "Birth Date":"10-17",
+    "Full Birth Date":"1920-10-17"
+  },
+  {
+    "Name":"13Newell W. Banks",
+    "Birth Year":1887,
+    "Birth Date":"10-10",
+    "Full Birth Date":"1887-10-10"
+  },
+  {
+    "Name":"14Mona May Karff",
+    "Birth Year":1914,
+    "Birth Date":"10-20",
+    "Full Birth Date":"1914-10-20"
+  },
+  {
+    "Name":"15Victor Palciauskas",
+    "Birth Year":1941,
+    "Birth Date":"10-03",
+    "Full Birth Date":"1941-10-03"
+  },
+  {
+    "Name":"16Leonids Dreibergs",
+    "Birth Year":1908,
+    "Birth Date":"10-27",
+    "Full Birth Date":"1908-10-27"
+  },
+  {
+    "Name":"17Boris Baczynsky",
+    "Birth Year":1945,
+    "Birth Date":"10-14",
+    "Full Birth Date":"1945-10-14"
+  },
+  {
+    "Name":"18Myroslav Turiansky",
+    "Birth Year":1912,
+    "Birth Date":"10-10",
+    "Full Birth Date":"1912-10-10"
+  },
+  {
+    "Name":"19Leon Stolzenberg",
+    "Birth Year":1895,
+    "Birth Date":"10-18",
+    "Full Birth Date":"1895-10-18"
+  },
+  {
+    "Name":"20Michael A. Mulyar",
+    "Birth Year":1978,
+    "Birth Date":"10-30",
+    "Full Birth Date":"1978-10-30"
+  },
+  {
+    "Name":"1Daniel Naroditsky",
+    "Birth Year":1995,
+    "Birth Date":"11-19",
+    "Full Birth Date":"1995-11-19"
+  },
+  {
+    "Name":"2Andrew Tang",
+    "Birth Year":1999,
+    "Birth Date":"11-29",
+    "Full Birth Date":"1999-11-29"
+  },
+  {
+    "Name":"3Varuzhan Akobian",
+    "Birth Year":1983,
+    "Birth Date":"11-19",
+    "Full Birth Date":"1983-11-19"
+  },
+  {
+    "Name":"4Jacqueline Piatigorsky",
+    "Birth Year":1911,
+    "Birth Date":"11-06",
+    "Full Birth Date":"1911-11-06"
+  },
+  {
+    "Name":"5Larry Kaufman",
+    "Birth Year":1947,
+    "Birth Date":"11-15",
+    "Full Birth Date":"1947-11-15"
+  },
+  {
+    "Name":"6K. K. Karanja",
+    "Birth Year":1973,
+    "Birth Date":"11-23",
+    "Full Birth Date":"1973-11-23"
+  },
+  {
+    "Name":"7Kenneth Harkness",
+    "Birth Year":1896,
+    "Birth Date":"11-12",
+    "Full Birth Date":"1896-11-12"
+  },
+  {
+    "Name":"8William Addison (chess player)",
+    "Birth Year":1933,
+    "Birth Date":"11-28",
+    "Full Birth Date":"1933-11-28"
+  },
+  {
+    "Name":"9John Curdo",
+    "Birth Year":1931,
+    "Birth Date":"11-14",
+    "Full Birth Date":"1931-11-14"
+  },
+  {
+    "Name":"10Alonzo Morphy",
+    "Birth Year":1798,
+    "Birth Date":"11-23",
+    "Full Birth Date":"1798-11-23"
+  },
+  {
+    "Name":"11Kate\u0159ina N\u011bmcov\u00e1",
+    "Birth Year":1990,
+    "Birth Date":"11-14",
+    "Full Birth Date":"1990-11-14"
+  },
+  {
+    "Name":"12Isaac Kashdan",
+    "Birth Year":1905,
+    "Birth Date":"11-19",
+    "Full Birth Date":"1905-11-19"
+  },
+  {
+    "Name":"13Israel Albert Horowitz",
+    "Birth Year":1907,
+    "Birth Date":"11-15",
+    "Full Birth Date":"1907-11-15"
+  },
+  {
+    "Name":"14Marc Tyler Arnold",
+    "Birth Year":1992,
+    "Birth Date":"11-20",
+    "Full Birth Date":"1992-11-20"
+  },
+  {
+    "Name":"15Willard Fiske",
+    "Birth Year":1831,
+    "Birth Date":"11-11",
+    "Full Birth Date":"1831-11-11"
+  },
+  {
+    "Name":"16Bill Goichberg",
+    "Birth Year":1942,
+    "Birth Date":"11-11",
+    "Full Birth Date":"1942-11-11"
+  },
+  {
+    "Name":"17Nikolay Minev",
+    "Birth Year":1931,
+    "Birth Date":"11-08",
+    "Full Birth Date":"1931-11-08"
+  },
+  {
+    "Name":"18Charles Kalme",
+    "Birth Year":1939,
+    "Birth Date":"11-15",
+    "Full Birth Date":"1939-11-15"
+  },
+  {
+    "Name":"19C. C. MacApp",
+    "Birth Year":1913,
+    "Birth Date":"11-27",
+    "Full Birth Date":"1913-11-27"
+  },
+  {
+    "Name":"20Rade Milovanovi\u0107",
+    "Birth Year":1954,
+    "Birth Date":"11-12",
+    "Full Birth Date":"1954-11-12"
+  },
+  {
+    "Name":"1Joshua Waitzkin",
+    "Birth Year":1976,
+    "Birth Date":"12-04",
+    "Full Birth Date":"1976-12-04"
+  },
+  {
+    "Name":"2Hikaru Nakamura",
+    "Birth Year":1987,
+    "Birth Date":"12-09",
+    "Full Birth Date":"1987-12-09"
+  },
+  {
+    "Name":"3Dan Harrington",
+    "Birth Year":1945,
+    "Birth Date":"12-06",
+    "Full Birth Date":"1945-12-06"
+  },
+  {
+    "Name":"4Samuel Sevian",
+    "Birth Year":2000,
+    "Birth Date":"12-26",
+    "Full Birth Date":"2000-12-26"
+  },
+  {
+    "Name":"5Emory Tate",
+    "Birth Year":1958,
+    "Birth Date":"12-27",
+    "Full Birth Date":"1958-12-27"
+  },
+  {
+    "Name":"6Robert Hess (chess player)",
+    "Birth Year":1991,
+    "Birth Date":"12-19",
+    "Full Birth Date":"1991-12-19"
+  },
+  {
+    "Name":"7Irina Krush",
+    "Birth Year":1983,
+    "Birth Date":"12-24",
+    "Full Birth Date":"1983-12-24"
+  },
+  {
+    "Name":"8William Lombardy",
+    "Birth Year":1937,
+    "Birth Date":"12-04",
+    "Full Birth Date":"1937-12-04"
+  },
+  {
+    "Name":"9Harry Nelson Pillsbury",
+    "Birth Year":1872,
+    "Birth Date":"12-05",
+    "Full Birth Date":"1872-12-05"
+  },
+  {
+    "Name":"10Jennifer Shahade",
+    "Birth Year":1980,
+    "Birth Date":"12-31",
+    "Full Birth Date":"1980-12-31"
+  },
+  {
+    "Name":"11Edward Lasker",
+    "Birth Year":1885,
+    "Birth Date":"12-03",
+    "Full Birth Date":"1885-12-03"
+  },
+  {
+    "Name":"12Greg Shahade",
+    "Birth Year":1978,
+    "Birth Date":"12-22",
+    "Full Birth Date":"1978-12-22"
+  },
+  {
+    "Name":"13George H. D. Gossip",
+    "Birth Year":1841,
+    "Birth Date":"12-06",
+    "Full Birth Date":"1841-12-06"
+  },
+  {
+    "Name":"14Oscar Chajes",
+    "Birth Year":1873,
+    "Birth Date":"12-14",
+    "Full Birth Date":"1873-12-14"
+  },
+  {
+    "Name":"15Duncan Suttles",
+    "Birth Year":1945,
+    "Birth Date":"12-21",
+    "Full Birth Date":"1945-12-21"
+  },
+  {
+    "Name":"16Ron Henley (chess player)",
+    "Birth Year":1956,
+    "Birth Date":"12-05",
+    "Full Birth Date":"1956-12-05"
+  },
+  {
+    "Name":"17Anthony Santasiere",
+    "Birth Year":1904,
+    "Birth Date":"12-09",
+    "Full Birth Date":"1904-12-09"
+  },
+  {
+    "Name":"18Frederick Perrin",
+    "Birth Year":1815,
+    "Birth Date":"12-05",
+    "Full Birth Date":"1815-12-05"
+  },
+  {
+    "Name":"19Albert Simonson",
+    "Birth Year":1914,
+    "Birth Date":"12-26",
+    "Full Birth Date":"1914-12-26"
+  },
+  {
+    "Name":"20Curt Brasket",
+    "Birth Year":1932,
+    "Birth Date":"12-07",
+    "Full Birth Date":"1932-12-07"
+  }
+]
