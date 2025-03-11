@@ -1446,3 +1446,129 @@
 [LOG] Checking user: Lstark with scheduled removal date: 2026-02-12
 [INFO] No action for Lstark today. Removal date not reached.
 [LOG] Finished processing all users.
+[2025-02-26 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-26 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-26 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 7b3f27f0a93487cd7dc7618d803c4415).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-26
+[LOG] Finished processing all users.
+[2025-02-27 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-27 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-02-27 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0f2ce458a02f8cf8acf99b52aa783b64).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-27
+[LOG] Finished processing all users.
+[2025-02-28 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-02-28 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-02-28 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ab51f52a4512b8179409fc4d836eb702).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-02-28
+[LOG] Finished processing all users.
+[2025-03-01 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-01 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-03-01 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 302242604b64e847e725096ddb691314).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-01
+[LOG] Finished processing all users.
+[2025-03-02 00:00:05] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-02 00:00:05] [INFO    ] discord.client: logging in using static token
+[2025-03-02 00:00:07] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: ff77b51ecdf6e6120d45a2a3fd6f6fad).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-02
+[LOG] Finished processing all users.
+[2025-03-03 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-03 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-03-03 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: fcab9e0b1a60bacb0776219a62e78444).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-03
+[LOG] Finished processing all users.
+[2025-03-04 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-04 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-03-04 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e07087d663bbd49fd21bad5b03e842ae).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-04
+[LOG] Finished processing all users.
+[2025-03-05 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-05 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-03-05 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 78a28fa3d41cfc092f8e541646b547be).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-05
+[LOG] Finished processing all users.
+[2025-03-06 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-06 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-03-06 00:00:06] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 46d459f29706df828594908c8ce402da).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-06
+[LOG] Finished processing all users.
+[2025-03-07 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-07 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-03-07 00:00:04] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 261228ef9f9d8001e6309bc7b754e583).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-07
+[LOG] Finished processing all users.
+[2025-03-08 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-08 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-03-08 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: cd8f7b96bb9db7738371de7dab5dcc20).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-08
+[LOG] Finished processing all users.
+[2025-03-09 00:00:03] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-09 00:00:03] [INFO    ] discord.client: logging in using static token
+[2025-03-09 00:00:07] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0d1a5591c447cc5f0b530e5dab931bff).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-09
+[LOG] Finished processing all users.
+[2025-03-10 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-10 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-03-10 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: a6011af543fd1a8fc37f23d8c40ad497).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-10
+[LOG] Finished processing all users.
+[2025-03-11 00:00:04] [WARNING ] discord.ext.commands.bot: Privileged message content intent is missing, commands may not work as expected.
+[2025-03-11 00:00:04] [INFO    ] discord.client: logging in using static token
+[2025-03-11 00:00:05] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: e9b7281bc0a676ccdbc97bf023f08897).
+[ERROR] Could not load removal schedule. Ensure the JSON file is formatted correctly.
+[LOG] Logged in as Comunidade XB#4058
+[LOG] Connected to guild: Comunidade Xadrez Brasil (ID: 1335436694844997734)
+[LOG] Role to be removed: Membro Comunidade Xadrez Brasil (ID: 1336061135446605925)
+[LOG] Today's date: 2025-03-11
+[LOG] Finished processing all users.
