@@ -10,7 +10,7 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 CHANNEL_ID = int(os.getenv("DISCORD_BIRTHDAY_CHANNEL_ID"))
 
 # Carregar o arquivo JSON fixo com aniversários
-BIRTHDAY_FILE = "./chess_players_fixed_ptbr.json"
+BIRTHDAY_FILE = os.path.join(os.path.dirname(__file__), "chess_players_fixed_ptbr.json")
 
 # Ler os aniversários dos jogadores de xadrez
 with open(BIRTHDAY_FILE, "r") as file:
